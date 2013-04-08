@@ -4,5 +4,7 @@
 \clearpage
 
 <<[introduction.md]
+
 <<[boston.md]
+
 <<[stockholm.md]

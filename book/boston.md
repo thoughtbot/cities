@@ -15,27 +15,20 @@ Our criteria for coffee shops are:
 
 * good coffee
 * good WiFi
-* on the Red Line
+* easy walk to the Red Line
 
 Ordered by their Red Line T stop:
 
 * Davis Square: [Diesel Cafe](http://g.co/maps/h2sr5)
 * Harvard Square: [Crema Cafe](http://goo.gl/09lMj)
+* Central Square: Dwelltime, free wifi, Barismo beans
 * Central Square: [1369 Coffee House](http://goo.gl/PzYGz), free wifi
 * Central Square: [Atomic Bean](http://goo.gl/QrZyA), free wifi, easy parking
-* Central Square: [C3](http://goo.gl/hvTPX), free one-hour wifi
 * Kendall Square: [Voltage Cafe](http://goo.gl/nyIOe)
 * Kendall Square: [Area Four](http://goo.gl/AtpPM), also great for dinner
-* Charles / MGH: [Paramount](http://goo.gl/sJIUu), more of a diner, great for
-  breakfast
 * Park St: [Thinking Cup](http://goo.gl/USIAA), best coffee drinks in Boston
 * South Station: [Flour](http://goo.gl/d7lT0), the Fort Point Channel one. If
   it's winter, take the Silver Line to the Courthouse stop. Shorter walk.
-
-Overrated:
-
-* Central Square: Andala Cafe. Never found the people who work there to be very
-  nice.
 
 Bars
 ----
@@ -49,7 +42,6 @@ Ordered by their Red Line T stop:
 * Central Square: [Lord Hobo](http://goo.gl/sqGKO), in no-mans land between
   Kendall, Central, and Inman Squares
 * Park St: [Stoddard's Pub](http://goo.gl/juolV), Ladder District
-* Park St: [Scholars](http://goo.gl/lelEN), scene of the infamous Ruby Riot
 
 Event spaces
 ------------
