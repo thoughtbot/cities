@@ -21,7 +21,7 @@ Ordered by their Red Line T stop:
 
 * Davis Square: [Diesel Cafe](http://g.co/maps/h2sr5)
 * Harvard Square: [Crema Cafe](http://goo.gl/09lMj)
-* Central Square: Dwelltime, free wifi, Barismo beans
+* Central Square: [Dwelltime](http://goo.gl/icK2ZM), free wifi, Barismo beans
 * Central Square: [1369 Coffee House](http://goo.gl/PzYGz), free wifi
 * Central Square: [Atomic Bean](http://goo.gl/QrZyA), free wifi, easy parking
 * Kendall Square: [Voltage Cafe](http://goo.gl/nyIOe)
@@ -41,6 +41,7 @@ Ordered by their Red Line T stop:
   Square
 * Central Square: [Lord Hobo](http://goo.gl/sqGKO), in no-mans land between
   Kendall, Central, and Inman Squares
+* Kendall Square: [Meadhall](http://goo.gl/YmbEvS), walk through the Marriott
 * Park St: [Stoddard's Pub](http://goo.gl/juolV), Ladder District
 
 Event spaces
@@ -82,28 +83,25 @@ Near the thoughtbot office, hip enough for a Rails developer:
 * [The Charlesmark](http://www.thecharlesmark.com)
 * [The Lenox](http://www.lenoxhotel.com)
 
-Not as hip, but nearby location, best for hotels.com points, etc.:
+Not as hip, but near thoughtbot, best for hotels.com points, etc.:
 
 * [Marriott Long
   Wharf](http://www.marriott.com/hotels/travel/boslw-boston-marriott-long-wharf)
 
-Nearby, fancy enough for a venture capitalist:
+Near thoughtbot, fancy enough for a venture capitalist:
 
 * [Park Plaza](http://www.bostonparkplaza.com)
 * [Ritz
   Carlton](http://www.ritzcarlton.com/en/Properties/BostonCommon/Default.htm)
 
-The Park Plaza has a hard time filling up, so you can often get some
-last-minute $100/night deals. We recommend checking that one first, especially
-if you’re looking last-minute.
-
-Here are some folks you might want to interact with.
+If you're looking last-minute, use [Hotel Tonight](http://www.hoteltonight.com).
 
 Hiring designers and developers
 -------------------------------
 
-Attend user group meetings like Boston Ruby and Boston Javascript. (see
-"Events" above)
+Here are some folks you might want to interact with.
+
+Attend user group meetings like Boston Ruby and Boston JavaScript.
 
 Get to know designers and developers by their work and their peers' interest in
 their work. Designers hang out on Dribbble. Developers hang out on GitHub.
@@ -121,13 +119,10 @@ make the introduction between entrepreneur and investor. We sometimes make
 introductions for our clients to local investors we know. We feel comfortable
 making an introduction to:
 
-* Adam Marchick, [Bain](http://www.baincapitalventures.com)
 * Angus Davis, angel
 * Antonio Rodriguez, [Matrix](http://www.matrixpartners.com)
-* Casey Gibbons, [Commonwealth](http://www.commonwealthvc.com/)
 * Dharmesh Shah, angel
 * Dustin Dolginow, [Atlas](http://www.atlasventure.com)
-* Joel Rodriguez, [Commonwealth](http://www.commonwealthvc.com/)
 * Lee Hower, [NextView](http://www.nextviewventures.com)
 * Matt Witheiler, [Flybridge](http://www.flybridge.com)
 * Reed Sturtevant, [Project 11](http://project11.com)
@@ -146,29 +141,13 @@ These lawyers are startup specialists.
 There are some great local tech events to learn and recruit at. The ones we've
 been to and can recommend are:
 
-* [Design with Boston](http://design.thoughtbot.com), first Thursday night at
-  thoughtbot
 * [Boston Ruby Group](http://bostonrb.org), Tuesday nights
-* [Boston Javascript Group](http://www.meetup.com/javascript-2/), monthly event
+* [Boston JavaScript Group](http://www.meetup.com/javascript-2/), monthly event
   at the [NERD or Bocoup](/working-in-boston/places)
 * [NoSQL Summer](http://nosqlsummer.org/city/boston)
-* [Boston Software
-  Craftsmanship](https://groups.google.com/forum/?fromgroups#!forum/boston-software-craftsmanship)
-
-We haven't been to, but are hearing good things about:
-
-* [Boston DevOps Group](http://www.meetup.com/Boston-Devops/)
-* [Boston CouchDB](http://www.meetup.com/Boston-CouchDB/)
-* [Boston Hadoop](http://www.meetup.com/bostonhadoop/)
-* [Boston Predictive
-  Analysis](http://www.meetup.com/Boston-Predictive-Analytics/)
-* [Boston HTML5 Game
-  Development](http://www.meetup.com/Boston-HTML5-Game-Development/)
 
 Less hardcore tech, more meet-and-greet:
 
 * [OpenCoffee](http://www.meetup.com/OpenCoffee-Cambridge-Meetup/), every
   Wednesday morning at [Voltage](/working-in-boston/places)
-* [WebInno](http://webinnovatorsgroup.com/), quarterly demos, 1000 people show
-  up
-
+* [WebInno](http://webinnovatorsgroup.com/), quarterly demos, ~500 people attend
