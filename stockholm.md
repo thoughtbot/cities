@@ -1,5 +1,5 @@
 Working in Stockholm
-=================
+====================
 
 Stockholm is an up-and-coming place for tech startups. This is meant to
 be a navigational guide around town.
