@@ -118,7 +118,7 @@ In addition to [thoughtbot](http://thoughtbot.com/contact), our clients might
 also want to contact:
 
 * [Bocoup](http://bocoup.com): JavaScript
-* [DockYard](http://dockyard.com/): Rails, Ember, design
+* [DockYard](http://dockyard.com/): design, Rails, Ember
 * [Intrepid Labs](http://intrepid.io/): iOS and Android
 
 Investors
