@@ -20,6 +20,8 @@ Our criteria for coffee shops are:
 Ordered by their Red Line T stop:
 
 * Davis Square: [Diesel Cafe](http://g.co/maps/h2sr5)
+* Porter Square: [Porter Square Books](http://goo.gl/0cwjV6), excellent cold
+  brew.
 * Harvard Square: [Crema Cafe](http://goo.gl/09lMj)
 * Central Square: [Dwelltime](http://goo.gl/icK2ZM), free wifi, Barismo beans
 * Central Square: [1369 Coffee House](http://goo.gl/PzYGz), free wifi
