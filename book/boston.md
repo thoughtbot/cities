@@ -111,6 +111,16 @@ Develop relationships from however you like from there.
 * [Boston Ruby
   GitHubbers](https://github.com/search?type=Users&language=ruby&q=location:boston)
 
+Design and development firms
+----------------------------
+
+In addition to [thoughtbot](http://thoughtbot.com/contact), you might want to
+also contact:
+
+* [Bocoup](http://bocoup.com): JavaScript
+* [DockYard](http://dockyard.com/): Rails, Ember, design
+* [Intrepid Labs](http://intrepid.io/): iOS and Android
+
 Investors
 ---------
 
