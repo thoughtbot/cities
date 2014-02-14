@@ -114,8 +114,8 @@ Develop relationships from however you like from there.
 Design and development firms
 ----------------------------
 
-In addition to [thoughtbot](http://thoughtbot.com/contact), you might want to
-also contact:
+In addition to [thoughtbot](http://thoughtbot.com/contact), our clients might
+also want to contact:
 
 * [Bocoup](http://bocoup.com): JavaScript
 * [DockYard](http://dockyard.com/): Rails, Ember, design
