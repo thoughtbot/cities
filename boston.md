@@ -39,6 +39,9 @@ There's a mysterious connection between hackers and craft beer.
 
 Ordered by their Red Line T stop:
 
+* Davis Square: [Sacco's/Flatbread
+  Company](http://www.flatbreadcompany.com/FlatbreadDirectionsSomerville%20MA%202010.html),
+  Fantastic local beers, great pizza, candlepin bowling
 * Central Square: [Bukowski's](http://goo.gl/XJRTv), walk Prospect St to Inman
   Square
 * Central Square: [Lord Hobo](http://goo.gl/sqGKO), in no-mans land between
