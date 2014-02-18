@@ -106,7 +106,8 @@ Hiring designers and developers
 
 Here are some folks you might want to interact with.
 
-Attend user group meetings like Boston Ruby and Boston JavaScript.
+Attend user group meetings like Boston Ruby, CocoaHeads Boston, and Boston
+JavaScript.
 
 Get to know designers and developers by their work and their peers' interest in
 their work. Designers hang out on Dribbble. Developers hang out on GitHub.
@@ -115,6 +116,8 @@ Develop relationships from however you like from there.
 * [Boston Dribbblers](http://dribbble.com/designers?location=Boston)
 * [Boston Ruby
   GitHubbers](https://github.com/search?type=Users&language=ruby&q=location:boston)
+* [Boston Objective-C
+  GitHubbers](https://github.com/search?l=Objective-C&q=location%3Aboston&type=Users)
 
 Design and development firms
 ----------------------------
@@ -159,6 +162,11 @@ been to and can recommend are:
 * [Boston Ruby Group](http://bostonrb.org), Tuesday nights
 * [Boston JavaScript Group](http://www.meetup.com/javascript-2/), monthly event
   at the [NERD or Bocoup](/working-in-boston/places)
+* [Boston CocoaHeads](http://www.cocoaheadsboston.org/), 2nd Thursday of every
+  month
+* [NSCoder Night
+  Boston](http://www.meetup.com/NSCoder-Night-Boston/?gj=ej1b&a=wg2_rdmr), 3rd
+Thursday of every month
 * [NoSQL Summer](http://nosqlsummer.org/city/boston)
 
 Less hardcore tech, more meet-and-greet:
