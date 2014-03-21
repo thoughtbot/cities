@@ -156,6 +156,9 @@ These lawyers are startup specialists.
 * [Foley Hoag](http://www.foleyhoag.com)
 * [Gesmer Updegrove](http://www.gesmer.com/home.php) (our lawyer)
 
+User groups
+-----------
+
 There are some great local tech events to learn and recruit at. The ones we've
 been to and can recommend are:
 
