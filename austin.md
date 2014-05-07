@@ -28,6 +28,7 @@ Craft beer:
 * [Tap Room at the Market](http://4sq.com/1gclJwV)
 * [Gibson Bar](http://4sq.com/cf7p96): famous for being next to Britt's
   apartment
+* [C-Boy's Heart & Soul](http://4sq.com/1i6cqP3)
 * [The Liberty](http://4sq.com/5kqW2c): dive-y, patio, juke box
 
 Cocktails:
