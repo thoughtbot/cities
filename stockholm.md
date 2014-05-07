@@ -1,21 +1,11 @@
 Working in Stockholm
 ====================
 
-Stockholm is an up-and-coming place for tech startups. This is meant to
-be a navigational guide around town.
-
-Where can you meet other folks in the Stockholm tech community?
-
-All links go to Google Maps for easy discovery on your phone.
-
 Cafes
 -----
 
-Our criteria for cafes are:
-
-* good coffee
-* good WiFi
-* central and accessible
+These places have good coffee, good WiFi, and are easily accessible from public
+transportation.
 
 First up is any Espresso House. They're everywhere, have great WiFi, and
 the coffee is actually good.

@@ -1,21 +1,11 @@
 Working in Boston
 =================
 
-Boston is a great place to found and run a web business. This is meant to be a
-navigational guide around town.
-
-Where can you meet other folks in the Boston tech community?
-
-All links go to Google Maps for easy discovery on your phone.
-
 Coffee shops
 ------------
 
-Our criteria for coffee shops are:
-
-* good coffee
-* good WiFi
-* easy walk to the Red Line
+These places have good coffee, good WiFi, and are easily accessible from public
+transportation.
 
 Ordered by their Red Line T stop:
 

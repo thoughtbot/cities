@@ -1,19 +1,17 @@
 Working in Philadelphia
 ===================
 
-We believe Philadelphia is a great place to found and run a web business. This is meant to be a navigational guide around town.
-
-All links go to Google Maps for easy discovery on your phone.
-
 Coffee shops
 ------------
-These places all have: Good coffee and Tea, good Wifi, and a good atmosphere to have a conversation.
+
+These places all have: Good coffee and tea, good Wifi, and a good atmosphere to have a conversation.
 
 * [Menagerie Coffee](https://goo.gl/maps/HjH5T)
 * [Hubbub](https://goo.gl/maps/sQhGl)
 
 Bars
-------------
+----
+
 There are a bunch of really great bars in and around Philly. These are the ones that you'll have the highest chance of running into friendly faces:
 
 * [National Mechanics](https://goo.gl/maps/s0htq)
@@ -68,4 +66,3 @@ also want to contact:
 * [Neomind](http://www.neomindlabs.com/)
 * [Happy Cog](http://happycog.com/)
 * [P'unk Ave](http://punkave.com/)
-

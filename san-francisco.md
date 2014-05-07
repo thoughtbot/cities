@@ -1,8 +1,6 @@
 Working in San Francisco
 ========================
 
-Coming soon!
-
 Firms and freelancers
 ---------------------
 

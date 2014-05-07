@@ -1,8 +1,6 @@
 Working in Denver
 =================
 
-Coming soon!
-
 Design and development firms
 ----------------------------
 
