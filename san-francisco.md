@@ -17,6 +17,8 @@ Coffee shops
 * [Ritual](http://4sq.com/112Yc1)
 * [Four Barrel](http://4sq.com/1sPg2p)
 * [Dynamo Donuts](http://4sq.com/6yasbQ): similar to Voodoo Donuts in Portland
+* [Jane](http://4sq.com/gQNIyT)
+* [The Mill](http://4sq.com/OJDpF2)
 
 Bars
 ----
@@ -38,6 +40,7 @@ Craft beer:
 
 Whiskey bars:
 
+* [Bourbon & Branch](http://4sq.com/1LX900)
 * [Rickhouse](http://4sq.com/28v0nl)
 * [Nihon](http://4sq.com/7zxoPP)
 
