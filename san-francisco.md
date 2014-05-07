@@ -38,6 +38,7 @@ Craft beer:
 Whiskey bars:
 
 * [Rickhouse](http://4sq.com/28v0nl)
+* [Nihon](http://4sq.com/7zxoPP)
 
 Cocktail bars:
 
