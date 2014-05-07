@@ -94,14 +94,8 @@ If you're looking last-minute, use [Hotel Tonight](http://www.hoteltonight.com).
 Hiring designers and developers
 -------------------------------
 
-Here are some folks you might want to interact with.
-
-Attend user group meetings like Boston Ruby, CocoaHeads Boston, and Boston
-JavaScript.
-
-Get to know designers and developers by their work and their peers' interest in
-their work. Designers hang out on Dribbble. Developers hang out on GitHub.
-Develop relationships from however you like from there.
+Here are some folks you might want to interact with. Develop relationships how
+ever you'd like.
 
 * [Boston Dribbblers](http://dribbble.com/designers?location=Boston)
 * [Boston Ruby

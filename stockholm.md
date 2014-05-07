@@ -41,6 +41,9 @@ Hotels
 If you're coming from out of town and only need to stay a few nights, we
 recommend [Hotel Birger Jarl](http://www.birgerjarl.se/).
 
+User groups
+-----------
+
 There are some great local tech events to learn and recruit at. The ones we've
 been to and can recommend are:
 

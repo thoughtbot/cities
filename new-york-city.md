@@ -22,6 +22,9 @@ If you're looking last-minute, use [Hotel Tonight](http://www.hoteltonight.com).
 Hiring designers and developers
 -------------------------------
 
+Here are some folks you might want to interact with. Develop relationships how
+ever you'd like.
+
 * [NYC Dribbblers](https://dribbble.com/designers?location=New%20York%20City)
 * [NYC Ruby
   GitHubbers](https://github.com/search?type=Users&language=ruby&q=location:nyc)
