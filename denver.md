@@ -2,7 +2,7 @@ Working in Denver
 =================
 
 Unless otherwise stated, everything is ordered by distance from [the thoughtbot
-Denver office][office]:
+Denver office][office].
 
 [office]: https://goo.gl/maps/3X1zk
 
