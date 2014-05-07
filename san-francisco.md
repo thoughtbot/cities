@@ -13,6 +13,7 @@ Coffee shops
 * [The Creamery](http://4sq.com/8eu2jJ): serving Ritual cold brew
 * [Sightglass](http://4sq.com/1FbZt9)
 * [Front](http://4sq.com/RtLigs): good cold brew, chocolate croissants
+* [Philz Coffee](http://4sq.com/58mrhS): there are various locations but this one has a lot of seating and outlets.
 * [Ritual](http://4sq.com/112Yc1)
 * [Four Barrel](http://4sq.com/1sPg2p)
 * [Dynamo Donuts](http://4sq.com/6yasbQ): similar to Voodoo Donuts in Portland
