@@ -26,11 +26,13 @@ Craft beer:
 * [Victory Hall & Parlor](http://4sq.com/KjsH7U): insanely good Southern food
   such as chicken and waffles, cheese grits
 * [Tunnel Top](http://4sq.com/6cFq66)
+* [Zeitgeist](http://4sq.com/3w2DXR): big outdoor patio
 * [Monk's Kettle](http://4sq.com/JOyLM): sometimes has Pliny
 * [Mad Dog in the Fog](http://4sq.com/7dSQL2): sports bar, across the street
   from Rosamunde Sausage Grill and Toronado
 * [Toronado](http://4sq.com/KUqQ7): has Pliny, only plays metal on juke box
 * [Fat Angel](http://4sq.com/9uva0T): kind of proper
+* [Pi Bar](http://4sq.com/3fPr5V): has Pliny
 * [Magnolia Pub](http://4sq.com/3aqvGX): in the heart of Haight Ashbury
 
 Whiskey bars:
