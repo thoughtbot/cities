@@ -32,9 +32,11 @@ Ordered by their Red Line T stop:
 * Davis Square: [Sacco's/Flatbread
   Company](http://www.flatbreadcompany.com/FlatbreadDirectionsSomerville%20MA%202010.html),
   Fantastic local beers, great pizza, candlepin bowling
+* Porter Square/Harvard square: [Cambridge Common](https://goo.gl/maps/NbS56), great
+  beer selection. Walkable from either Harvard or Porter Square stations.
 * Central Square: [Bukowski's](http://goo.gl/XJRTv), walk Prospect St to Inman
   Square
-* Central Square: [Lord Hobo](http://goo.gl/sqGKO), in no-mans land between
+* Central Square: [Lord Hobo](http://goo.gl/sqGKO), in no-man's-land between
   Kendall, Central, and Inman Squares
 * Kendall Square: [Meadhall](http://goo.gl/YmbEvS), walk through the Marriott
 * Park St: [Stoddard's Pub](http://goo.gl/juolV), Ladder District
