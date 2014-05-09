@@ -1,7 +1,7 @@
 Working in New York City
 ========================
 
-_Ordered by proximity to the office_
+_Ordered by proximity to the [thoughtbot office](https://goo.gl/maps/biIAG)_
 
 Food
 ----
@@ -21,15 +21,15 @@ Food
 
 ### Japanese
 
-* [Sushi Yasuda](http://sushiyasuda.com/information.html) - Midtown
-* [Soto](http://nymag.com/listings/restaurant/soto) - Chelsea
-* [Tori Shin Yakitori](http://torishinny.com) - Upper East Side
-* [Sush Seki](http://sushisekinyc.com) - Upper East Side
+* [Sushi Yasuda](http://sushiyasuda.com/information.html) – Midtown
+* [Soto](http://nymag.com/listings/restaurant/soto) – Chelsea
+* [Tori Shin Yakitori](http://torishinny.com) – Upper East Side
+* [Sushi Seki](http://sushisekinyc.com) – Upper East Side
 
 ### Chinese
 
-* [Cafe China](http://cafechinanyc.com) - Midtown
-* [456 Shanghai](http://456shanghaicuisine.com) - China Town
+* [Cafe China](http://cafechinanyc.com) – Midtown
+* [456 Shanghai](http://456shanghaicuisine.com) – China Town
 * [Land of Plenty](http://landofplenty58.com) – Upper East Side
 
 Coffee shops
@@ -38,7 +38,7 @@ Coffee shops
 * [Culture Espresso](http://cultureespresso.com) – Midtown
 * [Cafe Grumpy](http://cafegrumpy.com/locations/fashion-district) – Midtown (Fashion District)
 * [Cafe Grumpy](http://cafegrumpy.com/locations/grand-central-terminal) – Midtown (Grand Central Terminal)
-* [Blue Bottle](http://bluebottlecoffee.com/cafes/rockefeller-center)
+* [Blue Bottle](http://bluebottlecoffee.com/cafes/rockefeller-center) – Midtown
 * [Stumptown](http://stumptowncoffee.com/location/new-york/manhattan) – NoMad
 
 For more visit the New York Times’ [101 Places to Find Great Coffee in New York](http://nytimes.com/interactive/2014/05/06/dining/101-places-to-get-good-coffee-in-new-york.html).
@@ -93,8 +93,7 @@ Meetups
 Hiring designers and developers
 -------------------------------
 
-Here are some folks you might want to interact with. Develop relationships how
-ever you’d like.
+Here are some folks you might want to interact with. Develop relationships however you’d like.
 
 * [NYC Dribbblers](https://dribbble.com/designers?location=New%20York%20City)
 * [NYC Ruby
