@@ -1,7 +1,7 @@
 Cities
 ======
 
-thoughtbot's guide to the cities where we have offices.
+thoughtbot’s guide to the cities where we have offices.
 
 [![Lights](http://f.cl.ly/items/0j3t2T113U1M2M3j3J3b/lights.png)](http://youtu.be/dIRkowObTQM)
 
