@@ -48,6 +48,7 @@ Cocktail bars:
 
 * [Local Edition](http://4sq.com/HibLpy)
 * [Novela](http://4sq.com/10qfpuT)
+* [Comstock Saloon](http://4sq.com/bIqDZH)
 * [Two Sisters Bar & Books](http://4sq.com/orUcWU)
 
 Firm and freelancers
