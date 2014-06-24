@@ -16,7 +16,7 @@ There are a bunch of really great bars in and around Philly. These are the ones 
 
 * [National Mechanics](https://goo.gl/maps/s0htq)
 * [Khyber Pass Pub](https://goo.gl/maps/uNf2E)
-* [Frankfort Hall](https://goo.gl/maps/QGfcC)
+* [Frankford Hall](https://goo.gl/maps/QGfcC)
 
 Event spaces
 ------------
@@ -29,6 +29,7 @@ Coworking spaces
 There are plenty of great coworking spaces in Philly depending on your specific needs. The ones we've
 been to and can recommend are:
 
+* [City CoHo | Philly Nexus](https://goo.gl/maps/bmxEo)
 * [Indy Hall](https://goo.gl/maps/OcH2z)
 
 Hiring designers and developers
