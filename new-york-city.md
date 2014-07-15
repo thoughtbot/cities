@@ -6,6 +6,7 @@ _Ordered by proximity to the [thoughtbot office](https://goo.gl/maps/biIAG)_
 Food
 ----
 
+* [Mexicue](http://mexicue.com) – Midtown
 * [Kati Roll](http://thekatirollcompany.com/locations_ny.html) – Midtown
 * [Shake Shack](http://shakeshack.com/location/grand-central-terminal-nyc) – Midtown
 * [Salvation Taco](http://salvationtaco.com) – Midtown
