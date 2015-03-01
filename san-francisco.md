@@ -1,10 +1,17 @@
 Working in San Francisco
 ========================
 
-Unless otherwise stated, everything is ordered by distance from [the thoughtbot
-San Francisco office][office].
+Ordered by distance from
+[the thoughtbot San Francisco office][office].
 
 [office]: https://goo.gl/maps/By7CX
+
+Getting around
+--------------
+
+* [Uber](https://www.uber.com/)
+* [Monthly ClipperCard](https://www.clippercard.com/ClipperWeb/muni/fares.do),
+  Muni and BART
 
 Coffee shops
 ------------
@@ -13,7 +20,7 @@ Coffee shops
 * [The Creamery](http://4sq.com/8eu2jJ): serving Ritual cold brew
 * [Sightglass](http://4sq.com/1FbZt9)
 * [Front](http://4sq.com/RtLigs): good cold brew, chocolate croissants
-* [Philz Coffee](http://4sq.com/58mrhS): there are various locations but this one has a lot of seating and outlets.
+* [Philz Coffee](http://4sq.com/58mrhS): this one has seating and outlets
 * [Ritual](http://4sq.com/112Yc1)
 * [Four Barrel](http://4sq.com/1sPg2p)
 * [Dynamo Donuts](http://4sq.com/6yasbQ): similar to Voodoo Donuts in Portland
@@ -54,9 +61,25 @@ Cocktail bars:
 Firm and freelancers
 ---------------------
 
-In addition to [thoughtbot](http://thoughtbot.com/contact), our clients might
-also want to contact:
+In addition to [thoughtbot](http://thoughtbot.com/contact),
+our clients might also want to contact:
 
 * [Carbon Five](http://carbonfive.com): design, web, mobile
 * [Hadiyah Mujhid](mailto:diyahm108@gmail.com): Android, web
 * [Pivotal Labs](http://pivotallabs.com/): Rails, iOS
+
+Moving
+------
+
+Within the city:
+
+* [Delancey Street Movers][delancey]
+
+[delancey]: http://www.delanceystreetfoundation.org/entermoving.php
+
+News
+----
+
+* Hoodline
+  [Twitter account](https://twitter.com/hoodlinesf) and
+  [iPhone app](https://itunes.apple.com/us/app/hoodline/id814699998?mt=8)
