@@ -1,20 +1,17 @@
-Working in San Francisco
-========================
+# San Francisco
 
 Ordered by distance from
 [the thoughtbot San Francisco office][office].
 
 [office]: https://goo.gl/maps/By7CX
 
-Getting around
---------------
+## Getting around
 
 * [Uber](https://www.uber.com/)
 * [Monthly ClipperCard](https://www.clippercard.com/ClipperWeb/muni/fares.do),
   Muni and BART
 
-Coffee shops
-------------
+## Coffee shops
 
 * [Blue Bottle](http://4sq.com/4jZybn)
 * [The Creamery](http://4sq.com/8eu2jJ): serving Ritual cold brew
@@ -27,8 +24,7 @@ Coffee shops
 * [Jane](http://4sq.com/gQNIyT)
 * [The Mill](http://4sq.com/OJDpF2)
 
-Bars
-----
+## Bars
 
 Craft beer:
 
@@ -58,8 +54,7 @@ Cocktail bars:
 * [Comstock Saloon](http://4sq.com/bIqDZH)
 * [Two Sisters Bar & Books](http://4sq.com/orUcWU)
 
-Firm and freelancers
----------------------
+## Firm and freelancers
 
 In addition to [thoughtbot](http://thoughtbot.com/contact),
 our clients might also want to contact:
@@ -68,8 +63,7 @@ our clients might also want to contact:
 * [Hadiyah Mujhid](mailto:diyahm108@gmail.com): Android, web
 * [Pivotal Labs](http://pivotallabs.com/): Rails, iOS
 
-Moving
-------
+## Moving
 
 Within the city:
 
@@ -77,8 +71,7 @@ Within the city:
 
 [delancey]: http://www.delanceystreetfoundation.org/entermoving.php
 
-News
-----
+## News
 
 * Hoodline
   [Twitter account](https://twitter.com/hoodlinesf) and

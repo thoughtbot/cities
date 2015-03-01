@@ -1,23 +1,19 @@
-Working in Austin
-=================
+# Austin
 
-Unless otherwise stated, everything is ordered by distance from [the thoughtbot
-Austin office][office].
+Ordered by distance from
+[the thoughtbot Austin office][office].
 
 [office]: https://goo.gl/maps/eSyv9
 
-Coworking spaces
-----------------
+## Coworking spaces
 
 * [Capital Factory](http://4sq.com/9tN6df)
 
-Coffee shops
-------------
+## Coffee shops
 
 * [Jo's](http://4sq.com/5fDcln)
 
-Bars
-----
+## Bars
 
 Craft beer:
 

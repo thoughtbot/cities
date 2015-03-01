@@ -1,43 +1,35 @@
-Working in Philadelphia
-===================
+# Working in Philadelphia
 
-Coffee shops
-------------
+## Coffee shops
 
-These places all have: Good coffee and tea, good Wifi, and a good atmosphere to have a conversation.
+These places all have
+good coffee and tea, good WiFi,
+and a good atmosphere to have a conversation.
 
 * [Menagerie Coffee](https://goo.gl/maps/HjH5T)
 * [Hubbub](https://goo.gl/maps/sQhGl)
 
-Bars
-----
+## Bars
 
-There are a bunch of really great bars in and around Philly. These are the ones that you'll have the highest chance of running into friendly faces:
+Where you might see some friendly faces:
 
 * [National Mechanics](https://goo.gl/maps/s0htq)
 * [Khyber Pass Pub](https://goo.gl/maps/uNf2E)
 * [Frankford Hall](https://goo.gl/maps/QGfcC)
 
-Event spaces
-------------
+## Event spaces
 
 * [Indy Hall](https://goo.gl/maps/OcH2z)
 * [Quorum at the Science Center](https://goo.gl/maps/lNlnG)
 
-Coworking spaces
-----------------
-There are plenty of great coworking spaces in Philly depending on your specific needs. The ones we've
-been to and can recommend are:
+## Coworking spaces
 
 * [City CoHo | Philly Nexus](https://goo.gl/maps/bmxEo)
 * [Indy Hall](https://goo.gl/maps/OcH2z)
 
-Hiring designers and developers
--------------------------------
+## Designers and developers
 
-Get to know designers and developers by their work and their peers' interest in
-their work. Designers hang out on Dribbble. Developers hang out on GitHub.
-Develop relationships from however you like from there.
+Some folks to follow:
 
 * [Philadelphia Dribbblers](http://dribbble.com/designers?location=Philadelphia)
 * [Philadelphia Ruby
@@ -45,11 +37,9 @@ GitHubbers](https://github.com/search?type=Users&language=ruby&q=location:philad
 * [Philadelphia Objective-C
 GitHubbers](https://github.com/search?l=Objective-C&q=location%3Aphiladelphia&type=Users)
 
-User groups
------------
+## User groups
 
-There are some great local tech events to learn and recruit at. The ones we've
-been to and can recommend are:
+Some we've been to and can recommend:
 
 * [Philly Dribbble Meetup](http://www.meetup.com/dribbble/Philadelphia-PA/)
 * [Philadelphia Javascript Developers](www.meetup.com/Philadelphia-JavaScript-Developers/)
@@ -57,11 +47,10 @@ been to and can recommend are:
 * [Build Guild](http://philly.buildguild.org/)
 * [CocoaHeads Philly](http://phillycocoa.org/)
 
-Design and development firms
-----------------------------
+## Design and development firms
 
-In addition to [thoughtbot](http://thoughtbot.com/contact), our clients might
-also want to contact:
+In addition to [thoughtbot](http://thoughtbot.com/contact),
+our clients might also want to contact:
 
 * [PromptWorks](http://www.promptworks.com/)
 * [Neomind](http://www.neomindlabs.com/)

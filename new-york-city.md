@@ -1,10 +1,9 @@
-Working in New York City
-========================
+# Working in New York City
 
-_Ordered by proximity to the [thoughtbot office](https://goo.gl/maps/biIAG)_
+Ordered by distance from
+[the thoughtbot New York office](https://goo.gl/maps/biIAG)
 
-Food
-----
+## Food
 
 * [Mexicue](http://mexicue.com) – Midtown
 * [Kati Roll](http://thekatirollcompany.com/locations_ny.html) – Midtown
@@ -33,8 +32,7 @@ Food
 * [456 Shanghai](http://456shanghaicuisine.com) – China Town
 * [Land of Plenty](http://landofplenty58.com) – Upper East Side
 
-Coffee shops
-------------
+## Coffee shops
 
 * [Culture Espresso](http://cultureespresso.com) – Midtown
 * [Cafe Grumpy](http://cafegrumpy.com/locations/fashion-district) – Midtown (Fashion District)
@@ -43,10 +41,7 @@ Coffee shops
 * [Blue Bottle](http://bluebottlecoffee.com/cafes/rockefeller-center) – Midtown
 * [Stumptown](http://stumptowncoffee.com/location/new-york/manhattan) – NoMad
 
-For more visit the New York Times’ [101 Places to Find Great Coffee in New York](http://nytimes.com/interactive/2014/05/06/dining/101-places-to-get-good-coffee-in-new-york.html).
-
-Bars
-----
+## Bars
 
 ### Cocktails
 
@@ -61,29 +56,19 @@ Bars
 * [Sake Bar Decibel](http://sakebardecibel.com) – East Village
 * [TØRST](http://torstnyc.com) – Greenpoint, Brooklyn
 
-Coworking spaces
-----------------
+## Coworking spaces
 
 * [WeWork](http://wework.com)
 * [Grind](http://grindspaces.com)
 
-For more visit [Desktime’s directory](https://desktimeapp.com/directory).
-
-Hotels
-------
-
-If you’re coming from out of town and only need to stay a few nights, we
-recommend these hotels:
-
-Near the thoughtbot office, hip enough for a Rails developer:
+## Hotels
 
 * [Row NYC](http://rownyc.com)
 * [Ace](http://acehotel.com/newyork)
 
-If you’re looking last-minute, use [Hotel Tonight](http://hoteltonight.com).
+If you're looking last-minute, use [Hotel Tonight](http://hoteltonight.com).
 
-Meetups
--------
+## Meetups
 
 * [BrooklynJS](http://brooklynjs.com)
 * [ManhattanJS](http://manhattanjs.com)
@@ -92,10 +77,9 @@ Meetups
 * [New York Emacs](http://meetup.com/New-York-Emacs-Meetup)
 * [New York Vim](http://meetup.com/The-New-York-Vim-Meetup)
 
-Hiring designers and developers
--------------------------------
+## Designers and developers
 
-Here are some folks you might want to interact with. Develop relationships however you’d like.
+Some folks to follow:
 
 * [NYC Dribbblers](https://dribbble.com/designers?location=New%20York%20City)
 * [NYC Ruby

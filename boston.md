@@ -1,8 +1,6 @@
-Working in Boston
-=================
+# Boston
 
-Coffee shops
-------------
+## Coffee shops
 
 These places have good coffee, good WiFi, and are easily accessible from public
 transportation.
@@ -22,8 +20,7 @@ Ordered by their Red Line T stop:
 * South Station: [Flour](http://goo.gl/d7lT0), the Fort Point Channel one. If
   it's winter, take the Silver Line to the Courthouse stop. Shorter walk.
 
-Bars
-----
+## Bars
 
 There's a mysterious connection between hackers and craft beer.
 
@@ -41,8 +38,7 @@ Ordered by their Red Line T stop:
 * Kendall Square: [Meadhall](http://goo.gl/YmbEvS), walk through the Marriott
 * Park St: [Stoddard's Pub](http://goo.gl/juolV), Ladder District
 
-Event spaces
-------------
+## Event spaces
 
 Ordered by their Red Line T stop:
 
@@ -54,8 +50,7 @@ Extending to the Silver Line:
 * Courthouse: [Bocoup office](http://g.co/maps/xhdu)
 * Courthouse: [MassChallenge](http://g.co/maps/f2z3)
 
-Coworking spaces
-----------------
+## Coworking spaces
 
 Ordered by their Red Line T stop:
 
@@ -67,8 +62,7 @@ Extending to the Silver Line:
 
 * Courthouse: [Bocoup office](http://g.co/maps/xhdu)
 
-Hotels
-------
+## Hotels
 
 If you're coming from out of town and only need to stay a few nights, we
 recommend these hotels:
@@ -93,11 +87,28 @@ Near thoughtbot, fancy enough for a venture capitalist:
 
 If you're looking last-minute, use [Hotel Tonight](http://www.hoteltonight.com).
 
-Hiring designers and developers
--------------------------------
+## User groups
 
-Here are some folks you might want to interact with. Develop relationships how
-ever you'd like.
+We've been to and can recommend:
+
+* [Boston Ruby Group](http://bostonrb.org), Tuesday nights
+* [Boston JavaScript Group](http://www.meetup.com/javascript-2/), monthly event
+  at the [NERD or Bocoup](/working-in-boston/places)
+* [Boston CocoaHeads](http://www.cocoaheadsboston.org/), 2nd Thursday of every
+  month
+* [NSCoder Night
+  Boston](http://www.meetup.com/NSCoder-Night-Boston/?gj=ej1b&a=wg2_rdmr), 3rd
+Thursday of every month
+
+Less tech, more meet-and-greet:
+
+* [OpenCoffee](http://www.meetup.com/OpenCoffee-Cambridge-Meetup/), every
+  Wednesday morning at [Voltage](/working-in-boston/places)
+* [WebInno](http://webinnovatorsgroup.com/), quarterly demos, ~500 people attend
+
+## Designers and developers
+
+Some folks to follow:
 
 * [Boston Dribbblers](http://dribbble.com/designers?location=Boston)
 * [Boston Ruby
@@ -105,23 +116,19 @@ ever you'd like.
 * [Boston Objective-C
   GitHubbers](https://github.com/search?l=Objective-C&q=location%3Aboston&type=Users)
 
-Design and development firms
-----------------------------
+## Design and development firms
 
-In addition to [thoughtbot](http://thoughtbot.com/contact), our clients might
-also want to contact:
+In addition to [thoughtbot](http://thoughtbot.com/contact),
+our clients might also want to contact:
 
 * [Bocoup](http://bocoup.com): JavaScript
 * [DockYard](http://dockyard.com/): design, Rails, Ember
 * [Intrepid Labs](http://intrepid.io/): iOS and Android
 
-Investors
----------
+## Investors
 
-The etiquette for the investing world is to have someone known by both parties
-make the introduction between entrepreneur and investor. We sometimes make
-introductions for our clients to local investors we know. We feel comfortable
-making an introduction to:
+We sometimes make introductions for our clients to local investors we know.
+We feel comfortable making an introduction to:
 
 * Angus Davis, angel
 * Antonio Rodriguez, [Matrix](http://www.matrixpartners.com)
@@ -133,33 +140,10 @@ making an introduction to:
 * Sim Simeonov, angel
 * Wan Li Zhu, [Fairhaven](http://fairhavencapital.com)
 
-Lawyers
--------
+## Lawyers
 
 These lawyers are startup specialists.
 
 * [Cooley](http://www.cooley.com/index.aspx)
 * [Foley Hoag](http://www.foleyhoag.com)
 * [Gesmer Updegrove](http://www.gesmer.com/home.php) (our lawyer)
-
-User groups
------------
-
-There are some great local tech events to learn and recruit at. The ones we've
-been to and can recommend are:
-
-* [Boston Ruby Group](http://bostonrb.org), Tuesday nights
-* [Boston JavaScript Group](http://www.meetup.com/javascript-2/), monthly event
-  at the [NERD or Bocoup](/working-in-boston/places)
-* [Boston CocoaHeads](http://www.cocoaheadsboston.org/), 2nd Thursday of every
-  month
-* [NSCoder Night
-  Boston](http://www.meetup.com/NSCoder-Night-Boston/?gj=ej1b&a=wg2_rdmr), 3rd
-Thursday of every month
-* [NoSQL Summer](http://nosqlsummer.org/city/boston)
-
-Less hardcore tech, more meet-and-greet:
-
-* [OpenCoffee](http://www.meetup.com/OpenCoffee-Cambridge-Meetup/), every
-  Wednesday morning at [Voltage](/working-in-boston/places)
-* [WebInno](http://webinnovatorsgroup.com/), quarterly demos, ~500 people attend
