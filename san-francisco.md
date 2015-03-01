@@ -63,9 +63,16 @@ our clients might also want to contact:
 * [Hadiyah Mujhid](mailto:diyahm108@gmail.com): Android, web
 * [Pivotal Labs](http://pivotallabs.com/): Rails, iOS
 
-## Moving
+## Apartments, housing, and moving
 
-Within the city:
+Listings:
+
+* [Apartment List](https://www.apartmentlist.com/)
+* [Craigslist](https://sfbay.craigslist.org/search/sfc/apa)
+* [Lovely](https://livelovely.com/)
+* [Redfin](https://www.redfin.com/city/17151/CA/San-Francisco)
+
+Movers:
 
 * [Delancey Street Movers][delancey]
 
