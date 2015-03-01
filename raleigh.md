@@ -1,3 +1,3 @@
-# Working in Raleigh
+# Raleigh
 
 Coming soon!

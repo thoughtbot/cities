@@ -1,4 +1,4 @@
-# Working in Philadelphia
+# Philadelphia
 
 ## Coffee shops
 

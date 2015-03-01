@@ -1,4 +1,4 @@
-# Working in Denver
+# Denver
 
 Ordered by distance from
 [the thoughtbot Denver office][office].
