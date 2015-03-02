@@ -12,46 +12,63 @@ Google Map for [the thoughtbot San Francisco office][office].
 
 ## Coffee shops
 
-* [Blue Bottle](http://4sq.com/4jZybn)
-* [Dynamo Donuts](http://4sq.com/6yasbQ): similar to Voodoo Donuts in Portland
-* [Four Barrel](http://4sq.com/1sPg2p)
-* [Front](http://4sq.com/RtLigs): good cold brew, chocolate croissants
-* [Jane](http://4sq.com/gQNIyT)
-* [Philz Coffee](http://4sq.com/58mrhS): this one has seating and outlets
-* [Ritual](http://4sq.com/112Yc1)
-* [Sightglass](http://4sq.com/1FbZt9)
-* [The Creamery](http://4sq.com/8eu2jJ): serving Ritual cold brew
-* [The Mill](http://4sq.com/OJDpF2)
+WiFi:
+
+* [Dynamo Donuts](http://4sq.com/6yasbQ): The Mission
+* [Four Barrel](http://4sq.com/1sPg2p): The Mission
+* [Jane](http://4sq.com/gQNIyT): Lower Pac Heights
+* [Philz Coffee](http://4sq.com/58mrhS): SoMa, seating, outlets
+* [Sightglass](http://4sq.com/1FbZt9): 7th St, near Heroku, Heavybit
+* [The Creamery](http://4sq.com/8eu2jJ): SoMa, Ritual cold brew
+* [The Mill](http://4sq.com/OJDpF2): NoPa, fancy toast
+
+No Wifi:
+
+* [Blue Bottle](http://4sq.com/4jZybn), Mint Plaza
+* [Front](http://4sq.com/RtLigs): Potrero, cold brew, chocolate croissants
+* [Ritual](http://4sq.com/112Yc1): The Mission
 
 ## Bars
 
-Craft beer:
+Craft beer bars:
 
-* [21st Amendment Brewery & Restaurant](http://4sq.com/PJDY0)
-* [Mad Dog in the Fog](http://4sq.com/7dSQL2): sports bar, across the street
-* [Monk's Kettle](http://4sq.com/JOyLM): sometimes has Pliny
-* [Tunnel Top](http://4sq.com/6cFq66)
-* [Fat Angel](http://4sq.com/9uva0T): kind of proper
-* [Magnolia Pub](http://4sq.com/3aqvGX): in the heart of Haight Ashbury
-* [Pi Bar](http://4sq.com/3fPr5V): has Pliny
-* [Toronado](http://4sq.com/KUqQ7): has Pliny, only plays metal on juke box
-* [Victory Hall & Parlor](http://4sq.com/KjsH7U): insanely good Southern food
-  such as chicken and waffles, cheese grits
+* [Mad Dog in the Fog](http://4sq.com/7dSQL2): Lower Haight
+* [Mini Bar](http://4sq.com/5dAC7Q): Divisadero, Pliny
+* [Pi Bar](http://4sq.com/3fPr5V): The Mission, Pliny, pizza
+* [The Page](http://4sq.com/3m290N): Divisadero, Pliny, dive-y
+* [Toronado](http://4sq.com/KUqQ7): Lower Haight, Pliny, metal on jukebox
+* [Tunnel Top](http://4sq.com/6cFq66): FiDi, walkable from office
 * [Zeitgeist](http://4sq.com/3w2DXR): big outdoor patio
-  from Rosamunde Sausage Grill and Toronado
+
+Breweries:
+
+* [21st Amendment](http://4sq.com/PJDY0), SoMa, walkable from the office
+* [Barrel Head Brewhouse](http://4sq.com/1cTPQJb): NoPa
+* [Cellarmaker](http://4sq.com/1a8SzZn): SoMa, amazing beers
+* [Southern Pacific](http://4sq.com/onVTq6): The Mission, airplane hanger-esque
 
 Whiskey bars:
 
 * [Bourbon & Branch](http://4sq.com/1LX900)
 * [Nihon](http://4sq.com/7zxoPP)
-* [Rickhouse](http://4sq.com/28v0nl)
+* [Rickhouse](http://4sq.com/28v0nl): FiDi, walkable from the office
 
 Cocktail bars:
 
 * [Comstock Saloon](http://4sq.com/bIqDZH)
-* [Local Edition](http://4sq.com/HibLpy)
-* [Novela](http://4sq.com/10qfpuT)
-* [Two Sisters Bar & Books](http://4sq.com/orUcWU)
+* [Hideout](http://4sq.com/8BKaPG): The Mission, Pliny
+* [Local Edition](http://4sq.com/HibLpy): SoMa, walkable from the office
+* [Novela](http://4sq.com/10qfpuT): SoMa, walkable from the office
+* [Two Sisters Bar & Books](http://4sq.com/orUcWU): Hayes Valley
+
+## Food
+
+Gastropubs:
+
+* [Fat Angel](http://4sq.com/9uva0T): The Fillmore
+* [Magnolia Pub](http://4sq.com/3aqvGX): Haight Ashbury
+* [Monk's Kettle](http://4sq.com/JOyLM): The Mission, sometimes has Pliny
+* [Victory Hall & Parlor](http://4sq.com/KjsH7U): chicken and waffles
 
 ## Firm and freelancers
 

@@ -5,13 +5,15 @@ Ordered by distance from
 
 ## Food
 
+Mexican:
+
 * [Mexicue](http://mexicue.com) – Midtown
 * [Kati Roll](http://thekatirollcompany.com/locations_ny.html) – Midtown
 * [Shake Shack](http://shakeshack.com/location/grand-central-terminal-nyc) – Midtown
 * [Salvation Taco](http://salvationtaco.com) – Midtown
 * [All'onda](http://allondanyc.com) – Union Square
 
-### Pizza
+Pizza:
 
 * [Waldy’s](http://waldyspizza.com/food-delivery-TW/waldy-wood-fired-pizza-penne-new-york-city.4558.r?QueryStringValue=wU5cWa4VIHXqOu01IRdASg==) – Midtown
 * [Motorino](http://motorinopizza.com/eastvillage/index.php?action=page&id=1871&location_id=25) – East Village
@@ -19,14 +21,14 @@ Ordered by distance from
 * [Paulie Gee’s](http://pauliegee.com) – Greenpoint, Brooklyn
 * [Roberta’s](http://robertaspizza.com) – Williamsburg, Brooklyn
 
-### Japanese
+Japanese:
 
 * [Sushi Yasuda](http://sushiyasuda.com/information.html) – Midtown
 * [Soto](http://nymag.com/listings/restaurant/soto) – Chelsea
 * [Tori Shin Yakitori](http://torishinny.com) – Upper East Side
 * [Sushi Seki](http://sushisekinyc.com) – Upper East Side
 
-### Chinese
+Chinese:
 
 * [Cafe China](http://cafechinanyc.com) – Midtown
 * [456 Shanghai](http://456shanghaicuisine.com) – China Town
