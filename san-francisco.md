@@ -55,7 +55,7 @@ Whiskey bars:
 
 Cocktail bars:
 
-* [Comstock Saloon](http://4sq.com/bIqDZH)
+* [Comstock Saloon](http://4sq.com/bIqDZH): Chinatown
 * [Hideout](http://4sq.com/8BKaPG): The Mission, Pliny
 * [Local Edition](http://4sq.com/HibLpy): SoMa, walkable from the office
 * [Novela](http://4sq.com/10qfpuT): SoMa, walkable from the office
@@ -79,7 +79,7 @@ our clients might also want to contact:
 * [Hadiyah Mujhid](mailto:diyahm108@gmail.com): Android, web
 * [Pivotal Labs](http://pivotallabs.com/): Rails, iOS
 
-## Apartments, housing, and moving
+## Housing
 
 Listings:
 
@@ -94,8 +94,16 @@ Movers:
 
 [delancey]: http://www.delanceystreetfoundation.org/entermoving.php
 
+Try [Handy](https://www.handy.com/) for house cleaning.
+
+## Groceries
+
+* [Instacart](https://www.instacart.com/)
+* [Google Shopping Express](https://www.google.com/shopping/express/)
+
 ## News
 
 * Hoodline
   [Twitter account](https://twitter.com/hoodlinesf) and
   [iPhone app](https://itunes.apple.com/us/app/hoodline/id814699998?mt=8)
+* [The Bold Italic](http://www.thebolditalic.com/articles)
