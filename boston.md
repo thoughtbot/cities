@@ -125,21 +125,6 @@ our clients might also want to contact:
 * [DockYard](http://dockyard.com/): design, Rails, Ember
 * [Intrepid Labs](http://intrepid.io/): iOS and Android
 
-## Investors
-
-We sometimes make introductions for our clients to local investors we know.
-We feel comfortable making an introduction to:
-
-* Angus Davis, angel
-* Antonio Rodriguez, [Matrix](http://www.matrixpartners.com)
-* Dharmesh Shah, angel
-* Dustin Dolginow, [Atlas](http://www.atlasventure.com)
-* Lee Hower, [NextView](http://www.nextviewventures.com)
-* Matt Witheiler, [Flybridge](http://www.flybridge.com)
-* Reed Sturtevant, [Project 11](http://project11.com)
-* Sim Simeonov, angel
-* Wan Li Zhu, [Fairhaven](http://fairhavencapital.com)
-
 ## Lawyers
 
 These lawyers are startup specialists.
