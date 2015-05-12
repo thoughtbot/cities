@@ -10,6 +10,7 @@ the cities where we have offices.
 * [Denver](denver.md)
 * [New York City](new-york-city.md)
 * [Philadelphia](philadelphia.md)
+* [Portland](portland.md)
 * [Raleigh](raleigh.md)
 * [San Francisco](san-francisco.md)
 * [Stockholm](stockholm.md)
