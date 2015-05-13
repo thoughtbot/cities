@@ -1,7 +1,7 @@
 # New York City
 
 Ordered by distance from
-[the thoughtbot New York office](https://goo.gl/maps/biIAG)
+[the thoughtbot New York office](https://tbot.io/nyc-office)
 
 ## Food
 
