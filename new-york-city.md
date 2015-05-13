@@ -52,6 +52,8 @@ Chinese:
 * [Maison Premiere](http://maisonpremiere.com) – Williamsburg
 * [Clover Club](http://cloverclubny.com) – Cobble Hill, Brooklyn
 
+Looking for more? You might like [Cocktail Kingdom’s Best New York City Bars](https://foursquare.com/tysongach/list/cocktail-kingdoms-best-new-york-city-bars) (in the form of a Foursquare list).
+
 ### Beer & Sake
 
 * [Sake Bar Decibel](http://sakebardecibel.com) – East Village
