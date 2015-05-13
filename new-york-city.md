@@ -38,7 +38,6 @@ Chinese:
 
 * [Culture Espresso](http://cultureespresso.com) – Midtown
 * [Cafe Grumpy](http://cafegrumpy.com/locations/fashion-district) – Midtown (Fashion District)
-* [Intelligentsia](http://intelligentsiacoffee.com/location/herald-square-coffeebar) – Midtown (Herald Square)
 * [Cafe Grumpy](http://cafegrumpy.com/locations/grand-central-terminal) – Midtown (Grand Central Terminal)
 * [Blue Bottle](http://bluebottlecoffee.com/cafes/rockefeller-center) – Midtown
 * [Stumptown](http://stumptowncoffee.com/location/new-york/manhattan) – NoMad
