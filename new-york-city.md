@@ -1,7 +1,15 @@
 # New York City
 
-Ordered by distance from
+Roughly ordered by distance from
 [the thoughtbot New York office](https://tbot.io/nyc-office)
+
+## Coffee shops
+
+* [Culture Espresso](http://cultureespresso.com) – Midtown
+* [Cafe Grumpy](http://cafegrumpy.com/locations/fashion-district) – Midtown (Fashion District)
+* [Blue Bottle](https://bluebottlecoffee.com/cafes/bryant-park) – Bryant Park
+* [Cafe Grumpy](http://cafegrumpy.com/locations/grand-central-terminal) – Midtown (Grand Central Terminal)
+* [Stumptown](http://stumptowncoffee.com/location/new-york/manhattan) – NoMad
 
 ## Food
 
@@ -33,14 +41,6 @@ Chinese:
 * [Cafe China](http://cafechinanyc.com) – Midtown
 * [456 Shanghai](http://456shanghaicuisine.com) – China Town
 * [Land of Plenty](http://landofplenty58.com) – Upper East Side
-
-## Coffee shops
-
-* [Culture Espresso](http://cultureespresso.com) – Midtown
-* [Cafe Grumpy](http://cafegrumpy.com/locations/fashion-district) – Midtown (Fashion District)
-* [Cafe Grumpy](http://cafegrumpy.com/locations/grand-central-terminal) – Midtown (Grand Central Terminal)
-* [Blue Bottle](http://bluebottlecoffee.com/cafes/rockefeller-center) – Midtown
-* [Stumptown](http://stumptowncoffee.com/location/new-york/manhattan) – NoMad
 
 ## Bars
 
