@@ -73,6 +73,7 @@ If you're looking last-minute, use [Hotel Tonight](http://hoteltonight.com).
 
 * [BrooklynJS](http://brooklynjs.com)
 * [ManhattanJS](http://manhattanjs.com)
+* [New York Sass & Compass Meetup](http://www.meetup.com/gothamsass)
 * [NYC Dribbble](http://meetup.com/dribbble/New-York-NY/1010862)
 * [NYC.rb](http://meetup.com/NYC-rb)
 * [New York Emacs](http://meetup.com/New-York-Emacs-Meetup)
