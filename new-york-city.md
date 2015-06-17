@@ -75,6 +75,7 @@ If you're looking last-minute, use [Hotel Tonight](http://hoteltonight.com).
 
 * [BrooklynJS](http://brooklynjs.com)
 * [ManhattanJS](http://manhattanjs.com)
+* [Code Genius](http://code.genius.com)
 * [Product Council NYC](http://meetup.com/Product-Council-NYC)
 * [New York Jobs-to-be-Done Meetup](http://meetup.com/New-York-Jobs-To-Be-Done-Meetup)
 * [Design Driven NYC](http://meetup.com/Design-Driven-NYC)
