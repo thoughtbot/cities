@@ -96,6 +96,11 @@ Movers:
 
 Try [Handy](https://www.handy.com/) for house cleaning.
 
+## Home wifi
+
+* [MonkeyBrains](https://www.monkeybrains.net/) 1Gbps microwave
+* [Webpass](https://webpass.net/residential) 500 Mbps
+
 ## Groceries
 
 * [Instacart](https://www.instacart.com/)
