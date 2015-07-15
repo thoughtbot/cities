@@ -88,9 +88,17 @@ Listings:
 * [Lovely](https://livelovely.com/)
 * [Redfin](https://www.redfin.com/city/17151/CA/San-Francisco)
 
+Suggested Hotels near the SF Office:
+
+* [Galleria Park Hotel](http://www.yelp.com/biz/galleria-park-hotel-san-francisco-3)
+* [Hotel Abri](http://www.yelp.com/biz/hotel-abri-san-francisco)
+* [Hotel Nikko](http://www.yelp.com/biz/hotel-nikko-san-francisco-san-francisco-2)
+* [Palace Hotel](http://www.yelp.com/biz/palace-hotel-san-francisco-2)
+
 Movers:
 
 * [Delancey Street Movers][delancey]
+* [English Gents Moving](http://www.yelp.com/biz/english-gents-moving-and-hauling-service-san-francisco)
 
 [delancey]: http://www.delanceystreetfoundation.org/entermoving.php
 
