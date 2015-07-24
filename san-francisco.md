@@ -59,6 +59,7 @@ Cocktail bars:
 * [Hideout](http://4sq.com/8BKaPG): The Mission, Pliny
 * [Local Edition](http://4sq.com/HibLpy): SoMa, walkable from the office
 * [Novela](http://4sq.com/10qfpuT): SoMa, walkable from the office
+* [Southside Spirit House](https://foursquare.com/southsidesf), SoMa
 * [Two Sisters Bar & Books](http://4sq.com/orUcWU): Hayes Valley
 
 ## Food
