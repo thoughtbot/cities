@@ -8,6 +8,7 @@ Ordered by distance from
 ## Coworking spaces
 
 * [Capital Factory](http://4sq.com/9tN6df)
+* [WeWork](http://4sq.com/1xqcXpB)
 
 ## Coffee shops
 
