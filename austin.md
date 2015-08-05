@@ -32,3 +32,7 @@ Craft beer:
 Cocktails:
 
 * [Whisler's](http://4sq.com/126CLSN)
+
+## BBQ
+
+* [Franklin Barbecue](http://4sq.com/friVsQ)
