@@ -22,7 +22,7 @@ WiFi:
 * [The Creamery](http://4sq.com/8eu2jJ): SoMa, Ritual cold brew
 * [The Mill](http://4sq.com/OJDpF2): NoPa, fancy toast
 
-No Wifi:
+No WiFi:
 
 * [Blue Bottle](http://4sq.com/4jZybn), Mint Plaza
 * [Front](http://4sq.com/RtLigs): Potrero, cold brew, chocolate croissants
@@ -96,7 +96,7 @@ Movers:
 
 Try [Handy](https://www.handy.com/) for house cleaning.
 
-## Home wifi
+## Home WiFi
 
 * [MonkeyBrains](https://www.monkeybrains.net/) 1Gbps microwave
 * [Webpass](https://webpass.net/residential) 500 Mbps
