@@ -116,15 +116,6 @@ Some folks to follow:
 * [Boston Objective-C
   GitHubbers](https://github.com/search?l=Objective-C&q=location%3Aboston&type=Users)
 
-## Design and development firms
-
-In addition to [thoughtbot](http://thoughtbot.com/contact),
-our clients might also want to contact:
-
-* [Bocoup](http://bocoup.com): JavaScript
-* [DockYard](http://dockyard.com/): design, Rails, Ember
-* [Intrepid Labs](http://intrepid.io/): iOS and Android
-
 ## Lawyers
 
 These lawyers are startup specialists.

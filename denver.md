@@ -15,12 +15,3 @@ Ordered by distance from
 * [River North Brewery](http://4sq.com/A47jV9)
 * [Rock Bottom Brewery](http://4sq.com/6NHkgD)
 * [Falling Rock Tap House](http://4sq.com/5MsPQx)
-
-## Design and development firms
-
-In addition to [thoughtbot](http://thoughtbot.com/contact),
-our clients might also want to contact:
-
-* [Hashrocket](http://hashrocket.com): design, Rails, iOS
-* [Quick Left](http://quickleft.com/): design, Rails
-* [Pivotal Labs](http://pivotallabs.com/): Rails, iOS

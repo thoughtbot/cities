@@ -46,13 +46,3 @@ Some we've been to and can recommend:
 * [Phillyrb](http://www.phillyrb.org/)
 * [Build Guild](http://philly.buildguild.org/)
 * [CocoaHeads Philly](http://phillycocoa.org/)
-
-## Design and development firms
-
-In addition to [thoughtbot](http://thoughtbot.com/contact),
-our clients might also want to contact:
-
-* [PromptWorks](http://www.promptworks.com/)
-* [Neomind](http://www.neomindlabs.com/)
-* [Happy Cog](http://happycog.com/)
-* [P'unk Ave](http://punkave.com/)
