@@ -13,6 +13,7 @@ Ordered by distance from
 ## Coffee shops
 
 * [Jo's](http://4sq.com/5fDcln)
+* [Houndstooth](http://4sq.com/VOmIWN)
 
 ## Bars
 
