@@ -13,10 +13,13 @@ Roughly ordered by distance from
 
 ## Food
 
+Burgers:
+
+* [Shake Shack](http://shakeshack.com/location/grand-central-terminal-nyc) – Midtown
+
 Mexican:
 
 * [Mexicue](http://mexicue.com) – Midtown
-* [Shake Shack](http://shakeshack.com/location/grand-central-terminal-nyc) – Midtown
 * [Salvation Taco](http://salvationtaco.com) – Midtown
 * [All'onda](http://allondanyc.com) – Union Square
 
