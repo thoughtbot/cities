@@ -16,10 +16,13 @@ Roughly ordered by distance from
 Mexican:
 
 * [Mexicue](http://mexicue.com) – Midtown
-* [Kati Roll](http://thekatirollcompany.com/locations_ny.html) – Midtown
 * [Shake Shack](http://shakeshack.com/location/grand-central-terminal-nyc) – Midtown
 * [Salvation Taco](http://salvationtaco.com) – Midtown
 * [All'onda](http://allondanyc.com) – Union Square
+
+Indian:
+
+* [Kati Roll](http://thekatirollcompany.com/locations_ny.html) – Midtown
 
 Pizza:
 
