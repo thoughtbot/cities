@@ -1,0 +1,96 @@
+# London
+
+London is a large and diverse city, made up of many different neighborhoods,
+each with someone unique to offer.
+
+Most of the technology scene is centered around East-London, with a lot of
+design-only firms around Oxford Circus.
+
+## Coffee shops
+
+These places have good coffee, good WiFi, and are easily accessible.
+
+* Old Street: [Ozone Coffee](http://www.ozonecoffee.co.uk)
+* Old Street: [Timberyard](https://tyuk.com/locations/ty-old-street/)
+
+## Bars
+
+There's a mysterious connection between hackers and craft beer.
+
+* Davis Square: [Sacco's/Flatbread
+  Company](http://www.flatbreadcompany.com/FlatbreadDirectionsSomerville%20MA%202010.html),
+  Fantastic local beers, great pizza, candlepin bowling
+* Porter Square/Harvard square: [Cambridge Common](https://goo.gl/maps/NbS56), great
+  beer selection. Walkable from either Harvard or Porter Square stations.
+* Central Square: [Bukowski's](http://goo.gl/XJRTv), walk Prospect St to Inman
+  Square
+* Central Square: [Lord Hobo](http://goo.gl/sqGKO), in no-man's-land between
+  Kendall, Central, and Inman Squares
+* Kendall Square: [Meadhall](http://goo.gl/YmbEvS), walk through the Marriott
+* Park St: [Stoddard's Pub](http://goo.gl/juolV), Ladder District
+
+## Event spaces
+
+## Coworking spaces
+
+## Hotels
+
+If you're coming from out of town and only need to stay a few nights, we
+recommend these hotels:
+
+Near the thoughtbot office, hip enough for a Rails developer:
+
+* [The Nine Zero](http://www.ninezero.com/nnz-map/index.html)
+* [The Onyx](http://www.onyxhotel.com)
+* [The Charlesmark](http://www.thecharlesmark.com)
+* [The Lenox](http://www.lenoxhotel.com)
+
+Not as hip, but near thoughtbot, best for hotels.com points, etc.:
+
+* [Marriott Long
+  Wharf](http://www.marriott.com/hotels/travel/boslw-boston-marriott-long-wharf)
+
+Near thoughtbot, fancy enough for a venture capitalist:
+
+* [Park Plaza](http://www.bostonparkplaza.com)
+* [Ritz
+  Carlton](http://www.ritzcarlton.com/en/Properties/BostonCommon/Default.htm)
+
+If you're looking last-minute, use [Hotel Tonight](http://www.hoteltonight.com).
+
+## User groups
+
+We've been to and can recommend:
+
+* [Boston Ruby Group](http://bostonrb.org), Tuesday nights
+* [Boston JavaScript Group](http://www.meetup.com/javascript-2/), monthly event
+  at the [NERD or Bocoup](/working-in-boston/places)
+* [Boston CocoaHeads](http://www.cocoaheadsboston.org/), 2nd Thursday of every
+  month
+* [NSCoder Night
+  Boston](http://www.meetup.com/NSCoder-Night-Boston/?gj=ej1b&a=wg2_rdmr), 3rd
+Thursday of every month
+
+Less tech, more meet-and-greet:
+
+* [OpenCoffee](http://www.meetup.com/OpenCoffee-Cambridge-Meetup/), every
+  Wednesday morning at [Voltage](/working-in-boston/places)
+* [WebInno](http://webinnovatorsgroup.com/), quarterly demos, ~500 people attend
+
+## Designers and developers
+
+Some folks to follow:
+
+* [Boston Dribbblers](http://dribbble.com/designers?location=Boston)
+* [Boston Ruby
+  GitHubbers](https://github.com/search?type=Users&language=ruby&q=location:boston)
+* [Boston Objective-C
+  GitHubbers](https://github.com/search?l=Objective-C&q=location%3Aboston&type=Users)
+
+## Lawyers
+
+These lawyers are startup specialists.
+
+* [Cooley](http://www.cooley.com/index.aspx)
+* [Foley Hoag](http://www.foleyhoag.com)
+* [Gesmer Updegrove](http://www.gesmer.com/home.php) (our lawyer)
