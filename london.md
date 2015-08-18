@@ -15,46 +15,20 @@ These places have good coffee, good WiFi, and are easily accessible.
 
 ## Bars
 
-There's a mysterious connection between hackers and craft beer.
-
-* Davis Square: [Sacco's/Flatbread
-  Company](http://www.flatbreadcompany.com/FlatbreadDirectionsSomerville%20MA%202010.html),
-  Fantastic local beers, great pizza, candlepin bowling
-* Porter Square/Harvard square: [Cambridge Common](https://goo.gl/maps/NbS56), great
-  beer selection. Walkable from either Harvard or Porter Square stations.
-* Central Square: [Bukowski's](http://goo.gl/XJRTv), walk Prospect St to Inman
-  Square
-* Central Square: [Lord Hobo](http://goo.gl/sqGKO), in no-man's-land between
-  Kendall, Central, and Inman Squares
-* Kendall Square: [Meadhall](http://goo.gl/YmbEvS), walk through the Marriott
-* Park St: [Stoddard's Pub](http://goo.gl/juolV), Ladder District
-
 ## Event spaces
 
 ## Coworking spaces
 
+* Old Street/Shoreditch: [Central Working](http://centralworking.com) (our
+  co-working space)
+* Old Street/Shoreditch: [Google Campus](https://www.campus.co/london/en), a
+  free space for the community, provided by Google.
+* St. Katharine's Docks:
+  [Rainmaking Loft](http://www.rainmakingloft.com/london/welcome)
+* Whitechapel: [Central Working](http://centralworking.com), big, and has a
+  great event space for members.
+
 ## Hotels
-
-If you're coming from out of town and only need to stay a few nights, we
-recommend these hotels:
-
-Near the thoughtbot office, hip enough for a Rails developer:
-
-* [The Nine Zero](http://www.ninezero.com/nnz-map/index.html)
-* [The Onyx](http://www.onyxhotel.com)
-* [The Charlesmark](http://www.thecharlesmark.com)
-* [The Lenox](http://www.lenoxhotel.com)
-
-Not as hip, but near thoughtbot, best for hotels.com points, etc.:
-
-* [Marriott Long
-  Wharf](http://www.marriott.com/hotels/travel/boslw-boston-marriott-long-wharf)
-
-Near thoughtbot, fancy enough for a venture capitalist:
-
-* [Park Plaza](http://www.bostonparkplaza.com)
-* [Ritz
-  Carlton](http://www.ritzcarlton.com/en/Properties/BostonCommon/Default.htm)
 
 If you're looking last-minute, use [Hotel Tonight](http://www.hoteltonight.com).
 
@@ -62,35 +36,30 @@ If you're looking last-minute, use [Hotel Tonight](http://www.hoteltonight.com).
 
 We've been to and can recommend:
 
-* [Boston Ruby Group](http://bostonrb.org), Tuesday nights
-* [Boston JavaScript Group](http://www.meetup.com/javascript-2/), monthly event
-  at the [NERD or Bocoup](/working-in-boston/places)
-* [Boston CocoaHeads](http://www.cocoaheadsboston.org/), 2nd Thursday of every
-  month
-* [NSCoder Night
-  Boston](http://www.meetup.com/NSCoder-Night-Boston/?gj=ej1b&a=wg2_rdmr), 3rd
-Thursday of every month
+* [London Ruby Users Group (LRUG)](http://lrug.org)
 
 Less tech, more meet-and-greet:
 
-* [OpenCoffee](http://www.meetup.com/OpenCoffee-Cambridge-Meetup/), every
-  Wednesday morning at [Voltage](/working-in-boston/places)
-* [WebInno](http://webinnovatorsgroup.com/), quarterly demos, ~500 people attend
+* [Pub Standards](https://london.pubstandards.com), every 3rd Thursday of the
+  month Wednesday morning at [The Bricklayers Arms](http://maps.google.co.uk/maps?q=31%20Gresse%20Street,%20London%20W1T%201QS)
+* [Thirst Fridays](https://generalassemb.ly/education/thirst-fridays/london),
+  the first Friday of every month.
 
 ## Designers and developers
 
 Some folks to follow:
 
-* [Boston Dribbblers](http://dribbble.com/designers?location=Boston)
-* [Boston Ruby
-  GitHubbers](https://github.com/search?type=Users&language=ruby&q=location:boston)
-* [Boston Objective-C
-  GitHubbers](https://github.com/search?l=Objective-C&q=location%3Aboston&type=Users)
+* [London Dribbblers](http://dribbble.com/designers?location=London)
+* [London Ruby
+  GitHubbers](https://github.com/search?type=Users&language=ruby&q=location:london)
+* [Boston Swift
+  GitHubbers](https://github.com/search?l=Swift&q=location%3Alondon&type=Users)
 
 ## Lawyers
 
-These lawyers are startup specialists.
+* [Ashfords](http://www.ashfords.co.uk) (our lawyer)
 
-* [Cooley](http://www.cooley.com/index.aspx)
-* [Foley Hoag](http://www.foleyhoag.com)
-* [Gesmer Updegrove](http://www.gesmer.com/home.php) (our lawyer)
+## Accountants
+
+* [Metric](http://www.metricaccountants.co.uk)
+* [Price Bailey](http://www.pricebailey.co.uk)
