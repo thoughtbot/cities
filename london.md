@@ -63,3 +63,12 @@ Some folks to follow:
 
 * [Metric](http://www.metricaccountants.co.uk)
 * [Price Bailey](http://www.pricebailey.co.uk)
+
+## Investors/Incubators
+
+* [Frontline Ventures](http://www.frontline.vc), early-stage venture capital
+  firm.
+* [LCIF](http://lcif.co)
+* [Capital List](http://capitallist.co)
+* [Startup Funding Club](http://startupfundingclub.com)
+* [Innovation Warehouse](http://www.innovationwarehouse.org)
