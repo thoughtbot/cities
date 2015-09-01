@@ -1,31 +1,65 @@
 # New York City
 
-Roughly ordered by distance from
-[the thoughtbot New York office](https://tbot.io/nyc-office)
+[thoughtbot New York office](https://tbot.io/nyc-office)
 
 ## Coffee shops
 
-* [Culture Espresso](http://cultureespresso.com) – Midtown
-* [Cafe Grumpy](http://cafegrumpy.com/locations/fashion-district) – Midtown (Fashion District)
 * [Blue Bottle](https://bluebottlecoffee.com/cafes/bryant-park) – Bryant Park
+* [Bluestone Lane](https://bluestonelaneny.com)– Bryant Park, 43rd and 6th
+  Ave
+* [Cafe Grumpy](http://cafegrumpy.com/locations/fashion-district) – Midtown (Fashion District)
 * [Cafe Grumpy](http://cafegrumpy.com/locations/grand-central-terminal) – Midtown (Grand Central Terminal)
-* [Stumptown](http://stumptowncoffee.com/location/new-york/manhattan) – NoMad
+* [Culture Espresso](http://cultureespresso.com) – Midtown, 38th and 6th Ave
+* [Piccolo Cafe](http://piccolocafe.us)  – Midtown
+* [Stumptown](http://stumptowncoffee.com) – NoMad
 
 ## Food
 
-Burgers:
+Lunch options near the office:
 
-* [Shake Shack](http://shakeshack.com/location/grand-central-terminal-nyc) – Midtown
+* [All'onda](http://allondanyc.com) – Union Square, Mexican
+* Bryant Market - 38th and 6th Ave, Bagels
+* [Chop't](http://choptsalad.com) - Bryant Park, Salads
+* [Chipotle](http://chipotle.com) - Bryant Park, Mexican
+* [Dig Inn](https://www.diginn.com) - 40th and Madison
+* [Fresh & Co](http://freshandconyc.com) - 36th and Broadway, Salads
+* [Hale & Hearty](http://haleandhearty.com) - 39th and Broadway, Salads and soups
+* [Kati Roll](http://thekatirollcompany.com) – Midtown, Indian
+* [Kobeyaki](http://kobeyaki.com/) - 40th and 6th Ave, Japanese
+* [Mexicue](http://mexicue.com) – 40th and 6th Ave, Mexican
+* [Potbelly](http://potbelly.com) - 37th and 7th Ave, Salads and sandwiches
+* [Salvation Taco](http://salvationtaco.com) – Midtown, Mexican
+* [Shake Shack](http://shakeshack.com) – Grand Central, Burgers
+* [Simit + Smith](http://simitandsmith.com): 1400 Broadway, Turkish
+* [Sweet Green](http://sweetgreen.com) - 28th and 5th Ave, Salads
+* Wasabi - 41st and 7th Ave, Japanese
 
-Mexican:
+Dinner Options:
 
-* [Mexicue](http://mexicue.com) – Midtown
-* [Salvation Taco](http://salvationtaco.com) – Midtown
-* [All'onda](http://allondanyc.com) – Union Square
+* [Izakaya MEW](http://mewnyc.com) - 53 W 35th St, Japanese BBQ
+* [Keen's Steakhouse](http://keens.com) - 36th and 6th Ave, Meat
+* [Ootoya](http://ootoya.us): 141 W 41st, Japanese
+* [Soto](http://nymag.com/listings/restaurant/soto) – Chelsea, Japanese
+* [The Strand](http://thestrandnyc.com) - 37th and 6th
+* [Sushi Seki](http://sushisekinyc.com) – Upper East Side, Japanese
+* [Sushi Yasuda](http://sushiyasuda.com) – Midtown, Japanese
+* [Tori Shin Yakitori](http://torishinny.com) – Upper East Side, Japanese
 
-Indian:
+Chinese:
 
-* [Kati Roll](http://thekatirollcompany.com/locations_ny.html) – Midtown
+* [Cafe China](http://cafechinanyc.com) – Midtown
+* [456 Shanghai](http://456shanghaicuisine.com) – China Town
+* [Land of Plenty](http://landofplenty58.com) – Upper East Side
+
+Koreatown:
+
+* [Miss Korean](http://misskoreabbq.com) - 10 W 32nd St (1,2 & 3FL)
+* [Don's Bogam](http://donsbogam.com) - 17 E 32nd St
+* [Shilla Korean Barbecue](http://shillarestaurant.com) - 37 W 32nd St (btwn 5th & 6th)
+* New Wonjo: 23 W 32nd St (btwn Broadway & 5th Ave)
+* [Seoul Garden](http://seoulgarden32.com)
+* [Kang Ho Dong Baekjeong](http://baekjeongnyc.com) 1 E 32nd St
+* [Gaonnuri](http://gaonnurinyc.com) - 39th and Broadway
 
 Pizza:
 
@@ -34,19 +68,6 @@ Pizza:
 * [Lombardi’s](http://firstpizza.com) – Soho
 * [Paulie Gee’s](http://pauliegee.com) – Greenpoint, Brooklyn
 * [Roberta’s](http://robertaspizza.com) – Williamsburg, Brooklyn
-
-Japanese:
-
-* [Sushi Yasuda](http://sushiyasuda.com/information.html) – Midtown
-* [Soto](http://nymag.com/listings/restaurant/soto) – Chelsea
-* [Tori Shin Yakitori](http://torishinny.com) – Upper East Side
-* [Sushi Seki](http://sushisekinyc.com) – Upper East Side
-
-Chinese:
-
-* [Cafe China](http://cafechinanyc.com) – Midtown
-* [456 Shanghai](http://456shanghaicuisine.com) – China Town
-* [Land of Plenty](http://landofplenty58.com) – Upper East Side
 
 ## Bars
 
