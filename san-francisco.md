@@ -106,6 +106,13 @@ Try [Handy](https://www.handy.com/) for house cleaning.
 * [Instacart](https://www.instacart.com/)
 * [Google Shopping Express](https://www.google.com/shopping/express/)
 
+## Banking
+
+* [First Republic](https://www.firstrepublic.com/) personal checking accounts,
+  all ATM fees are reimbursed, many physical locations in the Bay Area,
+  regularly rated one of the
+  [best banks in America](https://www.firstrepublic.com/content/uploads/Article/Forbes%202015_1078744579.pdf)
+
 ## News
 
 * Hoodline
