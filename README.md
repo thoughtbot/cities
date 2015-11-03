@@ -14,3 +14,5 @@ the cities where we have offices.
 * [Raleigh](raleigh.md)
 * [San Francisco](san-francisco.md)
 * [Stockholm](stockholm.md)
+
+* [Moving to USA tips](moving-to-usa.md)
