@@ -21,6 +21,8 @@ Lunch options near the office:
 * Bryant Market - 38th and 6th Ave, Bagels
 * [Chop't](http://choptsalad.com) - Bryant Park, Salads
 * [Chipotle](http://chipotle.com) - Bryant Park, Mexican
+* [The Counter](http://thecounterburger.com/) - Time Square, 41st and
+  Broadway
 * [Dig Inn](https://www.diginn.com) - 40th and Madison
 * [Fresh & Co](http://freshandconyc.com) - 36th and Broadway, Salads
 * [Hale & Hearty](http://haleandhearty.com) - 39th and Broadway, Salads and soups
@@ -50,12 +52,13 @@ Chinese:
 * [Cafe China](http://cafechinanyc.com) – Midtown
 * [456 Shanghai](http://456shanghaicuisine.com) – China Town
 * [Land of Plenty](http://landofplenty58.com) – Upper East Side
+* [Szechuan Gourmet](http://szechuan-gourmet.com/) - 39th, between 5th and 6th ave
 
 Koreatown:
 
-* [Miss Korean](http://misskoreabbq.com) - 10 W 32nd St (1,2 & 3FL)
+* [Dong Chun Hong](http://www.dongchunhongnyc.com) - 312 5th Ave (between 31st & 32nd)
 * [Don's Bogam](http://donsbogam.com) - 17 E 32nd St
-* [Shilla Korean Barbecue](http://shillarestaurant.com) - 37 W 32nd St (btwn 5th & 6th)
+* [Shilla Korean Barbecue](http://shillarestaurant.com) - 37 W 32nd St (between 5th & 6th)
 * New Wonjo: 23 W 32nd St (btwn Broadway & 5th Ave)
 * [Seoul Garden](http://seoulgarden32.com)
 * [Kang Ho Dong Baekjeong](http://baekjeongnyc.com) 1 E 32nd St
