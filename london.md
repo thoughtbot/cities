@@ -80,7 +80,7 @@ Some folks to follow:
 * [London Dribbblers](http://dribbble.com/designers?location=London)
 * [London Ruby
   GitHubbers](https://github.com/search?type=Users&language=ruby&q=location:london)
-* [Boston Swift
+* [London Swift
   GitHubbers](https://github.com/search?l=Swift&q=location%3Alondon&type=Users)
 
 ## Lawyers
