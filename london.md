@@ -1,7 +1,7 @@
 # London
 
 London is a large and diverse city, made up of many different neighborhoods,
-each with someone unique to offer.
+each with something unique to offer.
 
 Most of the technology scene is centered around East-London, with a lot of
 design-only firms around Oxford Circus.
