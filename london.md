@@ -19,6 +19,24 @@ Slightly further from the office:
 * Old Street: [Ozone Coffee](http://www.ozonecoffee.co.uk)
 * Old Street: [Timberyard](https://tyuk.com/locations/ty-old-street/)
 
+## Food
+
+* Long Lane: [Kurumaya](http://kurumaya.co.uk) (Japanese)
+* Saint John Street: [Benito's Hat](http://benitos-hat.com) (Mexican)
+* Saint John Street: [Pixxa](http://www.mypixxa.com) (Italian)
+* Saint John Street: [Pho](http://www.phocafe.co.uk) (Vietnamese)
+* Goswell Road: Pasta Cosi (Italian)
+* Cowcross Street: [Bar Burrito](http://barburrito.co.uk) (Mexican)
+* Cowcross Street: [Leon](http://leonrestaurants.co.uk) (Modern European)
+* Charterhouse Street: [Best Mangal](http://www.thebestmangal.com) (Middle Eastern)
+* Smithfield Street: [Caphe Pho](http://www.caphepho.co.uk) (Vietnamese)
+* Whitecross Street: [Pham Sushi](http://www.phamsushi.co.uk) (Japanese)
+
+There are also several good food markets near the office, on:
+
+* Leather Lane
+* Whitecross Street
+
 ## Pubs
 
 * Long Lane: [Old Red Cow](http://theoldredcow.com)
