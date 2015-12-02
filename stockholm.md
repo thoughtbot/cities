@@ -46,7 +46,8 @@ payment is totally automated, which requires using a PIN code and a card with a
 chip instead of just a magnetic stripe. So if your bank hasn't yet given you a
 VISA/Mastercard with a chip yet, ask them to do so.  It will make things a lot
 smoother since you won't have to sign to pay things (and some automated payment
-terminals won't work with an old-style card at all).
+terminals won't work with an old-style card at all). However, if you have a debit card without a chip,
+you can still pay at restaurants, and almost everything will work fine.
 
 Sweden is not a really tipping-heavy culture. Eating lunch at a restaurant,
 you're never expected to leave a tip. At restaurants and bars, a 10% tip (which
