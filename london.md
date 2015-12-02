@@ -10,12 +10,22 @@ design-only firms around Oxford Circus.
 
 These places have good coffee, good WiFi, and are easily accessible.
 
+* Long Lane: [Dose](http://dose-coffee.com)
+
+Slightly further from the office:
+
+* Clerkenwell Road: [Workshop](http://www.workshopcoffee.com)
+* Clerkenwell Road: [J&A](http://jandacafe.com/)
 * Old Street: [Ozone Coffee](http://www.ozonecoffee.co.uk)
 * Old Street: [Timberyard](https://tyuk.com/locations/ty-old-street/)
 
-## Bars
+## Pubs
 
-## Event spaces
+* Long Lane: [Old Red Cow](http://theoldredcow.com)
+* Charterhouse Street: [Fox and Anchor](http://www.foxandanchor.com)
+* Middle Street: Hand and Sheers
+
+## Event spaces 
 
 ## Coworking spaces
 
