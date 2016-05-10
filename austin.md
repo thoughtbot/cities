@@ -3,7 +3,7 @@
 Ordered by distance from
 [the thoughtbot Austin office][office].
 
-[office]: https://goo.gl/maps/eSyv9
+[office]: https://goo.gl/maps/3SwJn8ZkHcA2
 
 ## Coworking spaces
 
