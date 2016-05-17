@@ -19,6 +19,8 @@ Lunch options near the office:
 
 * [All'onda](http://allondanyc.com) – Union Square, Mexican
 * Bryant Market - 38th and 6th Ave, Bagels
+* [Bryant Park Grill](http://www.bryantpark.org/things-to-do/bryant_park_grill.html) –
+  East end of Bryant Park 40th St, Grill, need reservation
 * [Chop't](http://choptsalad.com) - Bryant Park, Salads
 * [Chipotle](http://chipotle.com) - Bryant Park, Mexican
 * [The Counter](http://thecounterburger.com/) - Time Square, 41st and
