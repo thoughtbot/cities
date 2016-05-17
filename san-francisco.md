@@ -117,6 +117,7 @@ Try [Handy](https://www.handy.com/) for house cleaning.
 * Hoodline
   [Twitter account](https://twitter.com/hoodlinesf) and
   [iPhone app](https://itunes.apple.com/us/app/hoodline/id814699998?mt=8)
+* [The Bold Italic](http://www.thebolditalic.com/)
 
 ## Accountants
 
