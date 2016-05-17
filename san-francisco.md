@@ -25,7 +25,6 @@ WiFi:
 No WiFi:
 
 * [Blue Bottle](http://4sq.com/4jZybn), Mint Plaza
-* [Front](http://4sq.com/RtLigs): Potrero, cold brew, chocolate croissants
 * [Ritual](http://4sq.com/112Yc1): The Mission
 
 ## Bars
@@ -118,7 +117,7 @@ Try [Handy](https://www.handy.com/) for house cleaning.
 * Hoodline
   [Twitter account](https://twitter.com/hoodlinesf) and
   [iPhone app](https://itunes.apple.com/us/app/hoodline/id814699998?mt=8)
-* [The Bold Italic](http://www.thebolditalic.com/articles)
+* [The Bold Italic](https://thebolditalic.com/)
 
 ## Accountants
 
