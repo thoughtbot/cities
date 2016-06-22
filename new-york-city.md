@@ -18,12 +18,13 @@
 Lunch options near the office:
 
 * [All'onda](http://allondanyc.com) – Union Square, Mexican
+* [Barilla](http://barillarestaurants.com/our-restaurants) - 40th and 6th Ave, Italian
 * Bryant Market - 38th and 6th Ave, Bagels
 * [Bryant Park Grill](http://www.bryantpark.org/things-to-do/bryant_park_grill.html) –
   East end of Bryant Park 40th St, Grill, need reservation
 * [Chop't](http://choptsalad.com) - Bryant Park, Salads
 * [Chipotle](http://chipotle.com) - Bryant Park, Mexican
-* [The Counter](http://thecounterburger.com/) - Time Square, 41st and
+* [The Counter](http://thecounterburger.com/) - Times Square, 41st and
   Broadway
 * [Dig Inn](https://www.diginn.com) - 40th and Madison
 * [Fresh & Co](http://freshandconyc.com) - 36th and Broadway, Salads
@@ -98,9 +99,10 @@ Looking for more? You might like [Cocktail Kingdom’s Best New York City Bars](
 
 ## Hotels
 
-* [Row NYC](http://rownyc.com)
 * [Ace](http://acehotel.com/newyork)
 * [Best Western Premier Herald Square](http://bestwesternnewyork.com/hotels/best-western-premier-herald-square)
+* [Row NYC](http://rownyc.com)
+* [Wyndham New Yorker](http://www.newyorkerhotel.com/en/accommodation)
 
 If you're looking last-minute, use [Hotel Tonight](http://hoteltonight.com).
 
