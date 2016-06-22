@@ -100,6 +100,7 @@ Looking for more? You might like [Cocktail Kingdom’s Best New York City Bars](
 
 * [Row NYC](http://rownyc.com)
 * [Ace](http://acehotel.com/newyork)
+* [Best Western Premier Herald Square](http://bestwesternnewyork.com/hotels/best-western-premier-herald-square)
 
 If you're looking last-minute, use [Hotel Tonight](http://hoteltonight.com).
 
