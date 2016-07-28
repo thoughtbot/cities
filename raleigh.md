@@ -1,6 +1,8 @@
 # Raleigh
 
-Google map for the [Raleigh office](http://goo.gl/Kim601).
+Google map for the [Raleigh office](https://goo.gl/maps/PkeiXGSMeLK2).
+It's on the third floor of the Charter Square building, in the Industrious
+co-working space.
 
 ## Coffee shops
 
@@ -18,12 +20,15 @@ Google map for the [Raleigh office](http://goo.gl/Kim601).
 
 ## Bars
 
-* [Foundation](goo.gl/Nxs9a4), Handcrafted libations right downstairs.
+* [Foundation](http://goo.gl/Nxs9a4), Handcrafted libations.
 * [Boxcar](http://goo.gl/J0FPs4), "Raleigh's ultimate bar + arcade"
+* [HayMaker](https://goo.gl/maps/DgnPfPsvXBS2), "Cocktails right downstairs,
+  behind b.good"
 
 ## Coworking spaces
 
-* [American Underground @Raleigh](http://goo.gl/Kim601)
+* [Industrious](https://goo.gl/maps/DgnPfPsvXBS2)
+* [The Nest](https://goo.gl/maps/xezNBYMkHNT2)
 * [HQ Raleigh](http://goo.gl/thNLlP)
 * [American Underground @ATC](http://goo.gl/qyKAfi), Durham, in the Crowe
   building
@@ -32,8 +37,8 @@ Google map for the [Raleigh office](http://goo.gl/Kim601).
 
 ## Parking
 
-* [Moore Square Parking Deck](http://goo.gl/W6S257)
-* [Alexander Square Parking Deck](http://goo.gl/wYUNBS)
+* [Charter Square Parking Deck](https://goo.gl/maps/ZoVyLjdWLbN2)
 
 ## Resources
+
 * [Startup map](http://openmaps.raleighnc.gov/startup-map/)
