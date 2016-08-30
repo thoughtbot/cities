@@ -7,13 +7,9 @@ the cities where we have offices.
 
 * [Austin](austin.md)
 * [Boston](boston.md)
-* [Denver](denver.md)
 * [London](london.md)
 * [New York City](new-york-city.md)
-* [Philadelphia](philadelphia.md)
-* [Portland](portland.md)
 * [Raleigh](raleigh.md)
 * [San Francisco](san-francisco.md)
-* [Stockholm](stockholm.md)
 
 * [Moving to USA tips](moving-to-usa.md)
