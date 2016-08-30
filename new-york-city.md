@@ -75,6 +75,10 @@ Pizza:
 * [Paulie Gee’s](http://pauliegee.com) – Greenpoint, Brooklyn
 * [Roberta’s](http://robertaspizza.com) – Williamsburg, Brooklyn
 
+Breakfast:
+
+* [Best Bagel and Coffee](https://www.yelp.com/biz/best-bagel-and-coffee-new-york) – 225 W 35th St (between 7th & 8th)
+
 ## Bars
 
 ### Cocktails
