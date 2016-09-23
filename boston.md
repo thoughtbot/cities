@@ -36,6 +36,8 @@ Ordered by their Red Line T stop:
 * Central Square: [Lord Hobo](http://goo.gl/sqGKO), in no-man's-land between
   Kendall, Central, and Inman Squares
 * Kendall Square: [Meadhall](http://goo.gl/YmbEvS), walk through the Marriott
+* Kendall Square: [Firebrand Saints](https://goo.gl/maps/1HzxoCtEizj), walk
+towards Longfellow Bridge (next to the CIC)
 * Park St: [Stoddard's Pub](http://goo.gl/juolV), Ladder District
 
 ## Event spaces
