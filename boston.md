@@ -14,7 +14,7 @@ Ordered by their Red Line T stop:
 * Central Square: [Dwelltime](http://goo.gl/icK2ZM), free wifi, Barismo beans
 * Central Square: [1369 Coffee House](http://goo.gl/PzYGz), free wifi
 * Central Square: [Atomic Bean](http://goo.gl/QrZyA), free wifi, easy parking
-* Kendall Square: [Voltage Cafe](http://goo.gl/nyIOe)
+* Kendall Square: [Barismo Coffee](https://goo.gl/maps/AMw1krkV4xC2)
 * Kendall Square: [Area Four](http://goo.gl/AtpPM), also great for dinner
 * Park St: [Thinking Cup](http://goo.gl/USIAA), best coffee drinks in Boston
 * South Station: [Flour](http://goo.gl/d7lT0), the Fort Point Channel one. If
