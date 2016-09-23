@@ -12,7 +12,7 @@ Ordered by their Red Line T stop:
   brew.
 * Harvard Square: [Crema Cafe](http://goo.gl/09lMj)
 * Central Square: [Barismo Coffee](http://goo.gl/icK2ZM), Barismo beans
-* Central Square: [1369 Coffee House](http://goo.gl/PzYGz), free wifi
+* Central Square: [1369 Coffee House](https://goo.gl/maps/fdMQe2vizxk), free wifi
 * Central Square: [Atomic Bean](http://goo.gl/QrZyA), free wifi, easy parking
 * Kendall Square: [Barismo Coffee](https://goo.gl/maps/AMw1krkV4xC2)
 * Kendall Square: [Area Four](http://goo.gl/AtpPM), also great for dinner
