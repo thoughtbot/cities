@@ -104,8 +104,6 @@ Thursday of every month
 
 Less tech, more meet-and-greet:
 
-* [OpenCoffee](http://www.meetup.com/OpenCoffee-Cambridge-Meetup/), every
-  Wednesday morning at [Voltage](/working-in-boston/places)
 * [WebInno](http://webinnovatorsgroup.com/), quarterly demos, ~500 people attend
 
 ## Designers and developers
