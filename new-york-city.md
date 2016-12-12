@@ -110,6 +110,10 @@ Looking for more? You might like [Cocktail Kingdom’s Best New York City Bars](
 
 If you're looking last-minute, use [Hotel Tonight](http://hoteltonight.com).
 
+## Parking
+
+* [Central Parking](http://nycparking.spplus.com/Manhattan-150-West-38th-Street.html) - 150 W. 38th Street, entrance on 38th Street, between Fashion Ave (7th Ave) and Broadway. We do not validate parking.
+
 ## Meetups
 
 * [BrooklynJS](http://brooklynjs.com)
