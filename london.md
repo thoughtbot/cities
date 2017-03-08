@@ -100,3 +100,8 @@ Some folks to follow:
 * [Capital List](http://capitallist.co)
 * [Startup Funding Club](http://startupfundingclub.com)
 * [Innovation Warehouse](http://www.innovationwarehouse.org)
+
+[London and Partners](http://invest.london) also runs the
+[The London VC Club](http://invest.london/grow/vc-london),
+making connections between those seeking investment and London's leading VC and
+angel investors.
