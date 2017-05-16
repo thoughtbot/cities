@@ -7,8 +7,8 @@ co-working space.
 ## Coffee shops
 
 * [Morning Times](http://goo.gl/p2LNez)
-* [Joule](http://goo.gl/R5B6sb)
-* [Café de los Muertos](http://goo.gl/gKN1cx)
+* [Sir Walter Coffee](https://goo.gl/maps/ChKtn7isbHS2)
+* [42 & Lawrence](https://goo.gl/maps/YtF9KVtxW1n)
 
 ## Food
 * [Oak City Meatball Shoppe](http://goo.gl/UMshXB), Meatballs
@@ -21,9 +21,9 @@ co-working space.
 ## Bars
 
 * [Foundation](http://goo.gl/Nxs9a4), Handcrafted libations.
-* [Boxcar](http://goo.gl/J0FPs4), "Raleigh's ultimate bar + arcade"
-* [HayMaker](https://goo.gl/maps/DgnPfPsvXBS2), "Cocktails right downstairs,
-  behind b.good"
+* [Boxcar](http://goo.gl/J0FPs4), Raleigh's ultimate bar + arcade
+* [HayMaker](https://goo.gl/maps/DgnPfPsvXBS2), Cocktails right downstairs,
+  behind b.good
 
 ## Coworking spaces
 
