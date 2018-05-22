@@ -1,5 +1,10 @@
 # Boston
 
+## Parking near thoughtbot
+* [Boston Parking Garage](http://bostoncommongarage.com/): 10 minute walk. $12 for 1 hour, $18 for 2 hours, $24 for 3 hours.
+* [45 Stuart St](https://www.parkme.com/lot/32163/ava-theater-boston-ma): 9 minute walk. $16 for 1 hour, $28 for 2 hours, $36 for 12 hours.
+* [1 Beacon St](https://www.lazparking.com/local/boston-ma/one-beacon-garage): 5 minute walk.
+
 ## Coffee shops
 
 These places have good coffee, good WiFi, and are easily accessible from public
