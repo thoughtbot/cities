@@ -1,10 +1,9 @@
 # Boston
 
 ## Parking near thoughtbot
-* [Boston Parking Garage](http://bostoncommongarage.com/): 10 min walk. $12 for 1 hour, $18 for 2 hours, $24 for 3 hours...
-* 45 Stuart St: 9 minute walk. $16 for 1 hour, $28 for 2 hours, $36 for 12 hours...
+* [Boston Parking Garage](http://bostoncommongarage.com/): 10 min walk. $12 for 1 hour, $18 for 2 hours, $24 for 3 hours.
+* 45 Stuart St: 9 minute walk. $16 for 1 hour, $28 for 2 hours, $36 for 12 hours.
 * [1 Beacon St](https://www.lazparking.com/local/boston-ma/one-beacon-garage): 5 min walk.
-
 
 ## Coffee shops
 
