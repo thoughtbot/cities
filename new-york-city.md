@@ -36,7 +36,7 @@ Lunch options near the office:
 * [Salvation Taco](http://salvationtaco.com) – Midtown, Mexican
 * [Shake Shack](http://shakeshack.com) – Grand Central, Burgers
 * [Simit + Smith](http://simitandsmith.com): 1400 Broadway, Turkish
-* [Sweet Green](http://sweetgreen.com) - 28th and 5th Ave, Salads
+* [sweetgreen](http://sweetgreen.com) - 38th and Broadway, Salads
 * Wasabi - 41st and 7th Ave, Japanese
 
 Dinner Options:
@@ -69,7 +69,8 @@ Koreatown:
 
 Pizza:
 
-* [Waldy’s](http://waldyspizza.com/food-delivery-TW/waldy-wood-fired-pizza-penne-new-york-city.4558.r?QueryStringValue=wU5cWa4VIHXqOu01IRdASg==) – Midtown
+* [Joe's](http://www.joespizzanyc.com/) – Midtown, 40th and Broadway
+* [Waldy’s](http://waldyspizza.com/food-delivery-TW/waldy-wood-fired-pizza-penne-new-york-city.4558.r?QueryStringValue=wU5cWa4VIHXqOu01IRdASg==) – Midtown, 27th and 6th Ave
 * [Motorino](http://motorinopizza.com/eastvillage/index.php?action=page&id=1871&location_id=25) – East Village
 * [Lombardi’s](http://firstpizza.com) – Soho
 * [Paulie Gee’s](http://pauliegee.com) – Greenpoint, Brooklyn
