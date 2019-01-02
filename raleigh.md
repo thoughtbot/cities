@@ -1,6 +1,6 @@
 # Raleigh
 
-Google map for the [Raleigh office](https://goo.gl/maps/PkeiXGSMeLK2).
+Google map for the [Raleigh office](https://goo.gl/maps/QzNFKneBi352).
 It's on the third floor of the Charter Square building, in the Industrious
 co-working space.
 
@@ -17,6 +17,7 @@ co-working space.
 * [Garland](http://goo.gl/3tilO5), Indian fusion
 * [Tasty 8's](http://goo.gl/8lWeHp), Hot dogs
 * [Bida Manda](http://goo.gl/63BE7g), Laotian
+* [Brewery Bhavana](https://goo.gl/maps/RNDBvcfsWzM2), Dim sum
 
 ## Bars
 
