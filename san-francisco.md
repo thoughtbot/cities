@@ -2,13 +2,38 @@
 
 Google Map for [the thoughtbot San Francisco office][office].
 
-[office]: https://goo.gl/maps/By7CX
+[office]: https://goo.gl/maps/RNXAsnvWbZhUq2yH9
 
 ## Getting around
 
-* [Monthly ClipperCard](https://www.clippercard.com/ClipperWeb/muni/fares.do),
-  Muni and BART. Buy a ClipperCard at any Walgreens and load some money while you wait for the monthly pass to kick in.
+Public Transit:
+
+* [Monthly ClipperCard](https://www.clippercard.com/ClipperWeb/index.do):
+Buy a ClipperCard at any Walgreens and load some money while you wait for the
+monthly pass to kick in. Works on all Bay Area public transit methods.
+* [Caltrain](http://www.caltrain.com/schedules/weekdaytimetable.html)
+* [Muni](https://www.sfmta.com/)
+* [Bart](https://www.bart.gov/schedules)
+* [Feetsies](https://media2.giphy.com/media/vlUCWLGF7jpwA/giphy.gif?cid=790b7611f67d8d5a4d7034e579845d2c6b33fba90597bc0a&rid=giphy.gif)
+
+Best public transit apps:
+* [Citymapper](https://citymapper.com/sf-bay-area?set_region=us-sf): iOS & Android
+* [Easy BART](https://apps.apple.com/us/app/easy-bart/id567074135): iOS only
+* [Routesy](https://apps.apple.com/us/app/routesy/id381982120): iOS only
+* [Transit](https://transitapp.com): iOS & Android
+
+Ridesharing:
+
+* [Lyft](https://www.lyft.com/)
 * [Uber](https://www.uber.com/)
+
+Scooters & Bikes:
+
+* [Bird](https://rent.bird.co)
+* [Jump](https://jump.com)
+* [Lyft Scooters](https://www.lyft.com/scooters)
+* [Scoot](https://scoot.co/)
+* [Skip](https://skipscooters.com/)
 
 ## Coffee shops
 
@@ -17,7 +42,8 @@ WiFi:
 * [Dynamo Donuts](http://4sq.com/6yasbQ): The Mission
 * [Four Barrel](http://4sq.com/1sPg2p): The Mission
 * [Jane](http://4sq.com/gQNIyT): Lower Pac Heights
-* [Philz Coffee](http://4sq.com/58mrhS): SoMa, seating, outlets
+* [Noon All Day](http://4sq.com/2BzHYNh): Dogpatch
+* [Piccino](http://4sq.com/YlDhp): Dogpatch
 * [Sightglass](http://4sq.com/1FbZt9): 7th St, near Heroku, Heavybit
 * [The Creamery](http://4sq.com/8eu2jJ): SoMa, Ritual cold brew
 * [The Mill](http://4sq.com/OJDpF2): NoPa, fancy toast
@@ -25,7 +51,6 @@ WiFi:
 No WiFi:
 
 * [Blue Bottle](http://4sq.com/4jZybn), Mint Plaza
-* [Front](http://4sq.com/RtLigs): Potrero, cold brew, chocolate croissants
 * [Ritual](http://4sq.com/112Yc1): The Mission
 
 ## Bars
@@ -49,8 +74,9 @@ Breweries:
 
 Whiskey bars:
 
-* [Bourbon & Branch](http://4sq.com/1LX900)
-* [Nihon](http://4sq.com/7zxoPP)
+* [Bourbon & Branch](http://4sq.com/1LX900): Tenderloin
+* [Elixir](http://4sq.com/13ih6fM): Mission
+* [Nihon](http://4sq.com/7zxoPP): Mission
 * [Rickhouse](http://4sq.com/28v0nl): FiDi, walkable from the office
 
 Cocktail bars:
@@ -59,17 +85,27 @@ Cocktail bars:
 * [Hideout](http://4sq.com/8BKaPG): The Mission, Pliny
 * [Local Edition](http://4sq.com/HibLpy): SoMa, walkable from the office
 * [Novela](http://4sq.com/10qfpuT): SoMa, walkable from the office
-* [Southside Spirit House](https://foursquare.com/southsidesf), SoMa
-* [Two Sisters Bar & Books](http://4sq.com/orUcWU): Hayes Valley
+* [Sea Star](http://4sq.com/1jPJtGN): Dogpatch, pool table
+* [Southside Spirit House](https://foursquare.com/southsidesf): SoMa
+* [Third Rail](http://4sq.com/1clR8rq): Dogpatch, house-made jerky
+
+Dive bars:
+
+* [Dogpatch Saloon](http://4sq.com/8fvH1g): Dogpatch
+* [Hi Dive](http://4sq.com/6CTCPt): Rincon Hill
+* [The Riptide](http://4sq.com/37bAzt): Outer Sunset
 
 ## Food
 
-Gastropubs:
-
-* [Fat Angel](http://4sq.com/9uva0T): The Fillmore
-* [Magnolia Pub](http://4sq.com/3aqvGX): Haight Ashbury
+* [Hops & Hominy](http://4sq.com/uCQ5sW): Union Square, soul food
+* [In-N-Out](http://4sq.com/4YMNjz): Fisherman's wharf, try the secret menu items
+* [Kitava](http://4sq.com/2AcBYsO): The Mission, gluten-free/paleo noms
+* [Lime Tree](http://4sq.com/4ZSQbT): Inner Sunset
 * [Monk's Kettle](http://4sq.com/JOyLM): The Mission, sometimes has Pliny
-* [Victory Hall & Parlor](http://4sq.com/KjsH7U): chicken and waffles
+* [Pizzeria Delfina](https://pizzeriadelfina.com/): Multiple locations
+* [Taqueria Cancun](http://4sq.com/8h72JA): SoMa, best tacos
+* [The Bird](http://4sq.com/2dkpftd): SoMa, delicious chicken sandwiches
+* [Yamo](http://4sq.com/7zLs8W): Mission, hole-in-the-wall w/delicious Burmese food.
 
 ## Housing
 
@@ -82,29 +118,28 @@ Listings:
 
 Suggested Hotels near the SF Office:
 
-* [Galleria Park Hotel](http://www.yelp.com/biz/galleria-park-hotel-san-francisco-3)
-* [Hotel Abri](http://www.yelp.com/biz/hotel-abri-san-francisco)
-* [Hotel Nikko](http://www.yelp.com/biz/hotel-nikko-san-francisco-san-francisco-2)
-* [Palace Hotel](http://www.yelp.com/biz/palace-hotel-san-francisco-2)
+* [The Mosser Hotel](https://www.yelp.com/biz/the-mosser-hotel-san-francisco)
+* [Virgin Hotels San Francisco](https://www.yelp.com/biz/virgin-hotels-san-francisco-san-francisco-2)
+* [W San Francisco](https://www.yelp.com/biz/w-san-francisco-san-francisco?osq=w+hotel)
 
 Movers:
 
-* [Delancey Street Movers][delancey]
+* [Delancey Street Movers](http://www.delanceystreetfoundation.org/entermoving.php)
 * [English Gents Moving](http://www.yelp.com/biz/english-gents-moving-and-hauling-service-san-francisco)
 
-[delancey]: http://www.delanceystreetfoundation.org/entermoving.php
 
 Try [Handy](https://www.handy.com/) for house cleaning.
 
 ## Home WiFi
 
 * [MonkeyBrains](https://www.monkeybrains.net/) 1Gbps microwave
-* [Webpass](https://webpass.net/residential) 500 Mbps
+* [Webpass](https://webpass.net/san_francisco) 500 Mbps
 
 ## Groceries
 
+* [Google Express](https://express.google.com/)
 * [Instacart](https://www.instacart.com/)
-* [Google Shopping Express](https://www.google.com/shopping/express/)
+* [Prime Now](https://primenow.amazon.com/onboard?sourceUrl=%2Fhome)
 
 ## Banking
 
@@ -112,13 +147,6 @@ Try [Handy](https://www.handy.com/) for house cleaning.
   all ATM fees are reimbursed, many physical locations in the Bay Area,
   regularly rated one of the
   [best banks in America](https://www.firstrepublic.com/content/uploads/Article/Forbes%202015_1078744579.pdf)
-
-## News
-
-* Hoodline
-  [Twitter account](https://twitter.com/hoodlinesf) and
-  [iPhone app](https://itunes.apple.com/us/app/hoodline/id814699998?mt=8)
-* [The Bold Italic](http://www.thebolditalic.com/articles)
 
 ## Accountants
 
